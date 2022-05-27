@@ -1,0 +1,752 @@
+,index,CandidateID,CandidateName,CandidateNameEng,Gender,Age,PartyID,SymbolID,SymbolName,SymbolNameEng,PoliticalPartyName,PoliticalPartyNameEng,TotalVoteReceived,Remarks,RemarksEng,PostId,Ward,Province_Number,District_Code,Palika_Code,Palika
+0,0,216060,हेम कर्ण पौडेल,Hem Karna Poudel,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,33049,निर्वाचित,Elected,3,,1,10,5092,Itahari
+16,0,273967,केदार भण्डारी,Kedar Bhandari,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11824,निर्वाचित,Elected,3,,1,10,5093,Inaruwa
+30,0,212226,ऐयुव अंसारी,AIYUB ANSARI,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6416,निर्वाचित,Elected,1,,1,10,5094,Koshi
+44,0,236586,आश नारायण चौधरी,Ash Narayan Chaudhary,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8901,निर्वाचित,Elected,1,,1,10,5095,Gadhi
+54,0,251406,बेद नारायण गच्छदार,Bed Narayan Gachchhadar,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11916,निर्वाचित,Elected,3,,1,10,5096,Duhabi
+63,0,204259,बेचन प्रसाद मेहता,Bechan Prasad Mehta,पुरुष,53,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,6874,निर्वाचित,Elected,1,,1,10,5097,Dewanganj
+75,0,168621,हर्क राज राई,HARKA RAJ RAAI,पुरुष,39,999,2319,लौरो,,स्वतन्त्र,Independent ,20821,निर्वाचित,Elected,3,,1,10,5098,Dharan
+95,0,308121,रमेश कार्की,Ramesh Karki,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,19293,निर्वाचित,Elected,3,,1,10,5099,Barahchhetra
+104,0,187645,जिवछ कुमार राय,Jibachha Kumar Roy,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7861,निर्वाचित,Elected,1,,1,10,5100,Barju
+111,0,257899,अजमल अख्तर मिया,Ajamal Akhtar Miya,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4993,निर्वाचित,Elected,1,,1,10,5101,Bhokraha Narsing
+125,0,199333,शंकर लाल चौधरी,Shankar Lal Chaudhary,पुरुष,62,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),13372,निर्वाचित,Elected,3,,1,10,5102,Ramdhuni
+139,0,205345,गफार अंसारी मिया,Gaphar Ansari Miya,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6172,निर्वाचित,Elected,1,,1,10,5103,Harinagar
+150,0,226411,मिङमा छिरी शेर्पा,Mingma Chhiri Sherpa,पुरुष,38,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2028,निर्वाचित,Elected,1,,1,11,5104,Khumbupasanglahmu
+153,0,182633,बुद्धि किरण राई,Buddi Kiran Rai,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3343,निर्वाचित,Elected,1,,1,11,5105,Maapya Dudhkoshi
+157,0,190290,अशिम राई,Ashim Rai,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4049,निर्वाचित,Elected,1,,1,11,5106,Thulung Dudhkoshi
+161,0,206345,धन जन राई,Dhan Jan Rai,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2569,निर्वाचित,Elected,1,,1,11,5107,Nechasalyan
+167,0,265371,सुर्य बहादुर राई,Surya Bahadur Rai,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2100,निर्वाचित,Elected,1,,1,11,5108,Mahakulung
+170,0,323379,मिना देवी कार्की,Mina Devi Karki,महिला,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1260,निर्वाचित,Elected,1,,1,11,5109,Likhupike
+174,0,175604,खिलराज बस्‍नेत,Khilraj Basnet,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1648,निर्वाचित,Elected,1,,1,11,5110,Sotang
+178,17,258363,नाम्गेल जाङबु शेर्पा,Namgel Jangbu Sherpa,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4968,निर्वाचित,Elected,3,,1,11,5111,Solududhakunda
+182,0,199890,गीरेन्द्र बहादुर राई,Girindra Bahadur Rai,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2606,निर्वाचित,Elected,1,,1,12,5112,Ainselukhark
+187,0,252595,समिर राई,Samir Rai,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2244,निर्वाचित,Elected,1,,1,12,5113,Kepilasagadhi
+190,0,254177,उदिम बहादुर राई,Udim Bahadur Rai,पुरुष,55,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3728,निर्वाचित,Elected,1,,1,12,5114,Khotehang
+192,0,273740,अरुणा देवी राई,Aruna Devi Rai,महिला,50,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2881,निर्वाचित,Elected,1,,1,12,5115,Jantedhunga
+195,0,231365,लोकेन्द्र राई,Lokendra Rai,पुरुष,35,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2803,निर्वाचित,Elected,1,,1,12,5116,Diprung Chuichumma
+201,0,188573,शालिक राम बन्जरा,Shalik Ram Banjara,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3181,निर्वाचित,Elected,1,,1,12,5117,Barahapokhari
+203,0,255778,तीर्थ राज भट्टराई,Tirtha Raj Bhattarai,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11389,निर्वाचित,Elected,3,,1,12,5118,Diktel Rupakot Majhuwagadhi
+207,0,218974,फटिक कुमार श्रेष्ठ,Phatik Kumar Shrestha,पुरुष,62,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2489,निर्वाचित,Elected,1,,1,12,5119,Rawa Besi
+211,0,240888,रवि प्रकाश राई,Rabi Prakash Rai,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1850,निर्वाचित,Elected,1,,1,12,5120,Sakela
+214,0,227369,विमला राई,Bimala Rai,महिला,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6317,निर्वाचित,Elected,3,,1,12,5121,Halesi Tuwachung
+221,0,168867,गम्बु शेर्पा,Gambu Sherpa,पुरुष,44,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,2882,निर्वाचित,Elected,1,,1,13,5122,Khijidemba
+226,0,233829,नवराज के.सी(खत्री),Navaraj K.C,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4715,निर्वाचित,Elected,1,,1,13,5123,Champadevi
+232,0,193910,निशान्त शर्मा बास्तोला,Nishanta Sharma Bastola,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3198,निर्वाचित,Elected,1,,1,13,5124,Chisankhugadhi
+237,0,214873,ज्ञानेन्द्र रुम्दाली,Gyanedra Rumdali,पुरुष,39,999,2339,खानेपानीको धारा,,स्वतन्त्र,Independent ,5021,निर्वाचित,Elected,1,,1,13,5125,Manebhanjyang
+241,0,241669,उत्तम राई,Uttam Rai,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4052,निर्वाचित,Elected,1,,1,13,5126,Molung
+246,0,204890,अशोक कुमार कार्की,Ashok Kumar Karki,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3776,निर्वाचित,Elected,1,,1,13,5127,Likhu
+253,0,253345,तेजन खनाल,Tejan Khanal,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6834,निर्वाचित,Elected,3,,1,13,5128,Siddhicharan
+260,0,239403,कमल तामाङ,Kamal Tamang,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5399,निर्वाचित,Elected,1,,1,13,5129,Sunkoshi
+265,0,217248,मान वहादुर केप्छाकी मगर,Man Bahadur Kepchhaki Magar,पुरुष,55,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),4942,निर्वाचित,Elected,1,,1,14,5130,Udayapurgadhi
+272,0,291085,राजेस चन्द्र श्रेष्ठ,Rajesh Chandra Shrestha,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6417,निर्वाचित,Elected,3,,1,14,5131,Katari
+280,0,189029,कालु मान लामा,Kalu Man Lama,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8863,निर्वाचित,Elected,3,,1,14,5132,Chaudandigadhi
+288,0,249105,ढुङ्ग राज विश्वकर्मा,Dung Raj Bishwakarma,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1787,निर्वाचित,Elected,1,,1,14,5133,Tapli
+306,0,206018,विरेन्द्र कुमार मगर,Birendra Kumar Magar,पुरुष,54,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4305,निर्वाचित,Elected,1,,1,14,5135,Rautamai
+309,0,203992,अशोक कार्की,Ashok Karki,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10120,निर्वाचित,Elected,3,,1,14,5136,Belaka
+317,0,252102,मेजर कुमार राई,Mejar Kumar Rai,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2051,निर्वाचित,Elected,1,,1,14,5137,Limchungbung
+321,0,207045,दिपेन्द्र  पोमु,Dipendra Pomu,पुरुष,34,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3036,निर्वाचित,Elected,1,,1,1,5001,Aathrai Tribeni
+325,0,240051,राजन लिम्बु,Rajan Limbu,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2660,निर्वाचित,Elected,1,,1,1,5002,Phaktanglung
+329,0,223294,अमिर मादेन,Amir Maden,पुरुष,58,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6179,निर्वाचित,Elected,3,,1,1,5003,Phungling
+334,0,190739,भक्त बहादुर कार्की,Bhakta Bahadur Karki,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2023,निर्वाचित,Elected,1,,1,1,5004,Mikwakhola
+338,0,200979,युक हां विर हांगाम,Yuk hang Bir Hanggam,पुरुष,38,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2869,निर्वाचित,Elected,1,,1,1,5005,Meringden
+342,0,168529,विजय प्रकाश वनेम,Bijaya Prakash Wanem,पुरुष,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2609,निर्वाचित,Elected,1,,1,1,5006,Maiwakhola
+345,0,170801,केशर कुमार सुब्बा,Keshar Kumar Subba,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2898,निर्वाचित,Elected,1,,1,1,5007,Pathivara Yangwarak
+347,0,190307,मान वहादुर राई,Man Bahadur Rai,पुरुष,65,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3085,निर्वाचित,Elected,1,,1,1,5008,Sidingba
+349,0,202585,लाल कृष्ण चौहान,Lal Krishna Chowhan,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3343,निर्वाचित,Elected,1,,1,1,5009,Sirijangha
+352,0,226869,वंम प्रसाद लावती,Bam Prasad Lawati,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3057,निर्वाचित,Elected,1,,1,2,5010,Kummayak
+356,0,259707,बाबु राम खड्का,Babu Ram Khadka,पुरुष,38,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2718,निर्वाचित,Elected,1,,1,2,5011,Tumbewa
+359,0,202008,वीर विक्रम थाम्सुहाङ,Bir Bikram Thamsuhang,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5779,निर्वाचित,Elected,1,,1,2,5012,Falelung
+364,0,234042,बृज हाङ आङदेम्बे,Birja Hang Angdembe,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5739,निर्वाचित,Elected,1,,1,2,5013,Falgunanda
+369,0,191453,मित्र प्रसाद काफ्ले,Mitra Prasad Kafle,पुरुष,58,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9855,निर्वाचित,Elected,3,,1,2,5014,Phidim
+375,0,184365,अमर राज माखिम,Amar Raj Makhim,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6065,निर्वाचित,Elected,1,,1,2,5015,Miklajung
+381,0,217813,भीम बहादुर योङया,Bhim Bahadur Yongya,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4118,निर्वाचित,Elected,1,,1,2,5016,Yangwarak
+384,0,213392,समर वहादुर अधिकारी,Samar Bahadur Adhikari,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4565,निर्वाचित,Elected,1,,1,2,5017,Hilihang
+388,0,249179,केदार थापा,Kedar Thapa,पुरुष,59,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,13165,निर्वाचित,Elected,3,,1,3,5018,Illam
+394,0,221377,राजेन्द्र केरुङ्ग,Rajendra Kerung,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6650,निर्वाचित,Elected,1,,1,3,5019,Chulachuli
+402,0,169193,सूर्य प्रसाद पोख्रेल,Surya Prasad Pokhrel,पुरुष,58,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8695,निर्वाचित,Elected,3,,1,3,5020,Deumai
+407,0,223930,दिपेन्द्र खनाल,Dipendra Khanal,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5322,निर्वाचित,Elected,1,,1,3,5021,Fakphokthum
+411,0,171816,खम्बासिं लिम्बु,Khambasingh Limbu,पुरुष,41,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8132,निर्वाचित,Elected,3,,1,3,5022,Mai
+416,0,168799,कुश बहादुर थेबे,Kus Bahadur Thebe,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5135,निर्वाचित,Elected,1,,1,3,5023,Maijogmai
+420,0,193075,हेमन्त राई,Hemanta Rai,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3818,निर्वाचित,Elected,1,,1,3,5024,Mangsebung
+423,0,264771,मनि कुमार स्‍्याबो,Mani Kumar Shyangbo,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4679,निर्वाचित,Elected,1,,1,3,5025,Rong
+429,0,218979,तुला राम गुरुङ्ग,Tula Ram Gurung,पुरुष,74,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4223,निर्वाचित,Elected,1,,1,3,5026,Sandakpur
+434,0,216568,रन बहादुर राई,Ran B ahadur Rai,पुरुष,50,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),12431,निर्वाचित,Elected,3,,1,3,5027,Suryodaya
+439,0,201847,बलदेव सिंह गोम्देन तामाङ्ग,Baldev Singh Gomden Tamang,पुरुष,47,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),19169,निर्वाचित,Elected,3,,1,4,5028,Arjundhara
+442,0,202952,कालेन्द्र प्रसाद सिंह राजवंशी,Kalendra Prasad Singh Rajbanshi,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11457,निर्वाचित,Elected,1,,1,4,5029,Kachankawal
+450,0,197670,राजेन्द्र कुमार पोखरेल,Rajendra Kumar Pokharel,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8673,निर्वाचित,Elected,3,,1,4,5030,Kankai
+457,0,235656,हुकुमसिंह राई,Hukumasingh Rai,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12868,निर्वाचित,Elected,1,,1,4,5031,Kamal
+464,0,179255,छत्रपति सुवेदी,Chhatrapati Subedi,पुरुष,71,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12849,निर्वाचित,Elected,3,,1,4,5032,Gauradhaha
+474,0,232686,फुलवति राजवंशी,Fulwati Rajbanshi,महिला,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5689,निर्वाचित,Elected,1,,1,4,5033,Gauriganj
+481,0,194815,जय नारायण शाह,Jaya Narayan Shah,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6998,निर्वाचित,Elected,1,,1,4,5034,Jhapa
+489,0,194755,राम कुमार थापा,Ram Kumar Thapa,पुरुष,68,4,2279,हलो,,राष्ट्रिय प्रजातन्त्र पार्टी,Rastriya Prajatantra Party,17525,निर्वाचित,Elected,3,,1,4,5035,Damak
+505,0,188214,देवीन्द्र प्रसाद चम्लागाई,Devindra Prasad Chamlagai,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7148,निर्वाचित,Elected,1,,1,4,5036,Barhadashi
+514,0,215689,मनोज प्रसाई,Manoj Prasai,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11403,निर्वाचित,Elected,1,,1,4,5037,Buddhashanti
+519,0,210474,गणेश पोखरेल,Ganesh Pokhrel,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12525,निर्वाचित,Elected,3,,1,4,5038,Bhadrapur
+527,0,260750,गोपालचन्द्र बुढाथोकी,Gopalchandra Budhathoki,पुरुष,59,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),26478,निर्वाचित,Elected,3,,1,4,5039,Mechinagar
+536,0,173371,पवित्रा देवी महतारा,Pabitra Devi Mahatara,महिला,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),16520,निर्वाचित,Elected,3,,1,4,5040,Birtamod
+546,0,248035,मेगाहाङ्ग थोप्रा,Meghahang Thopra,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),16498,निर्वाचित,Elected,3,,1,4,5041,Shivasataxi
+555,0,169362,रविन्द्र प्रसाद लिङदेन,Rabindra Prasad Lingden,पुरुष,51,4,2279,हलो,,राष्ट्रिय प्रजातन्त्र पार्टी,Rastriya Prajatantra Party,6856,निर्वाचित,Elected,1,,1,4,5042,Haldibari
+559,0,242424,महेश थपलिया,Mahesh Thapaliya,पुरुष,59,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7634,निर्वाचित,Elected,3,,1,5,5043,Khandbari
+566,0,229537,पासाङ नुर्वु शेर्पा,Pasang Nurbu Sherpa,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1861,निर्वाचित,Elected,1,,1,5,5044,Chichila
+570,0,235330,कृष्ण कुमार तामाङ्ग,Krishna Kumar Tamang,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6757,निर्वाचित,Elected,3,,1,5,5045,Chainpur
+574,0,188392,उदय चन्द्र पौडेल,Udaya Chandra Paudel,पुरुष,59,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4282,निर्वाचित,Elected,3,,1,5,5046,Dharmadevi
+577,0,213736,विपीन राई,Bipin Rai,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4788,निर्वाचित,Elected,3,,1,5,5047,Panchakhapan
+581,0,216025,वाङ छेदर लामा,Wang Chhedar Lama,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),1803,निर्वाचित,Elected,1,,1,5,5048,Bhotkhola
+584,0,210418,ओङदी छिरीङ शेर्पा,Ongdi Chhiring Sherpa,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3017,निर्वाचित,Elected,1,,1,5,5049,Makalu
+591,0,189223,जिवन लिंथेप,Jevan Lingthep,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4331,निर्वाचित,Elected,3,,1,5,5050,Madi
+596,0,214183,भिम बहादुर लिम्बु,Bhim Bahadur Limbu,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3007,निर्वाचित,Elected,1,,1,5,5051,Sabhapokhari
+599,0,206378,भूपाल राज राई,Bhupal Raj Rai,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2203,निर्वाचित,Elected,1,,1,5,5052,Silichong
+604,0,214226,दिल कुमार पाहीम,Dil Kumar Pahim,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4692,निर्वाचित,Elected,1,,1,6,5053,Aathrai
+608,0,213812,सन्त वीर लिम्बु,Santa Bir Limbu,पुरुष,36,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3915,निर्वाचित,Elected,1,,1,6,5054,Chhathar
+612,0,215693,केशव प्रसाद भेटवाल,Keshav Prasad Bhetwal,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4041,निर्वाचित,Elected,1,,1,6,5055,Phedap
+615,0,177574,यादव बहादुर खापुङ्ग,Yadav Bahadur Khapung,पुरुष,63,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2055,निर्वाचित,Elected,1,,1,6,5056,Menchayam
+618,0,207466,सञ्जय कुमार तुम्वाहाङफे,Sanjaya Kumar Tumbahangphe,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5117,निर्वाचित,Elected,3,,1,6,5057,Myanglung
+623,0,198415,अर्जुन मावोहाङ,Arjun Mabohang,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5139,निर्वाचित,Elected,3,,1,6,5058,Laligurans
+629,0,219223,शालिकराम खत्री,Salikram Khatry,पुरुष,65,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2887,निर्वाचित,Elected,1,,1,7,5059,Arun
+635,0,206283,अशोक राई,Ashok Rai,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3686,निर्वाचित,Elected,1,,1,7,5060,Aamchowk
+639,0,197526,सरोज बस्नेत,Soraj Basnat,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3980,निर्वाचित,Elected,1,,1,7,5061,Temkemaiyung
+641,0,206845,किरण राई,Kiran Rai,पुरुष,39,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2499,निर्वाचित,Elected,1,,1,7,5062,Pauwadungma
+645,0,198828,कैलाश कुमार आले,Kailash Kumar Aale,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5615,निर्वाचित,Elected,3,,1,7,5063,Bhojpur
+649,0,196790,थाम बहादुर राई,Tham Bahadur Rai,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3077,निर्वाचित,Elected,1,,1,7,5064,Ramprasad Rai
+651,0,272387,सुरेन्द्र कुमार उदास,Surendra kumar Udas,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6772,निर्वाचित,Elected,3,,1,7,5065,Shadananda
+657,0,195242,दौलथ कुमार कुलुङ(राई),Daulath Kumar Kulung/Rai,पुरुष,42,999,2339,खानेपानीको धारा,,स्वतन्त्र,Independent ,1814,निर्वाचित,Elected,1,,1,7,5066,Salpasilichho
+662,0,207537,प्रेम कुमार राई,Prem Kumar Rai,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4042,निर्वाचित,Elected,1,,1,7,5067,Hatuwagadhi
+664,0,213122,मनोज राई,Manoj Rai,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4214,निर्वाचित,Elected,1,,1,8,5068,Shahidbhumi
+669,0,189454,राज कुमार लिम्वु,Raj Kumar Limbu,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5038,निर्वाचित,Elected,1,,1,8,5069,Chaubise
+673,0,231083,छत्र बहादुर सुव्‍वा,Chhatra Bahadur Subba,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4359,निर्वाचित,Elected,1,,1,8,5070,Chhathar Jorpati
+678,0,197041,चिन्तन तामाङ्ग,Chantan Tamang,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7666,निर्वाचित,Elected,3,,1,8,5071,Dhankuta
+682,0,194341,ज्ञान बहादुर गुरुङ्ग,Gyan Bahadur Gurung,पुरुष,61,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5498,निर्वाचित,Elected,3,,1,8,5072,Pakhribas
+687,0,225689,ध्रुवराज राया,Dhrubaraj Raya,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6328,निर्वाचित,Elected,3,,1,8,5073,Mahalaxmi
+692,0,212982,जितेन्द्र राई,Jitendra Rai,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5399,निर्वाचित,Elected,1,,1,8,5074,Sangurigadhi
+697,0,184636,गंगा प्रसाद खरेल,Ganga Prasad Kharel,पुरुष,64,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12156,निर्वाचित,Elected,3,,1,9,5075,Uralabari
+704,0,235108,देवराज चौधरी,Devraj Chaudhary,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6565,निर्वाचित,Elected,1,,1,9,5076,Katahari
+713,0,190244,राजमति इङ्गनाम,Rajmati Ingnam,महिला,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8975,निर्वाचित,Elected,1,,1,9,5077,Kanepokhari
+720,0,248168,सुमन मिरिङचिङ मगर,Suman Miringching Magar,पुरुष,39,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7810,निर्वाचित,Elected,1,,1,9,5078,Kerabari
+727,0,276022,जय प्रकास गच्छदार थारु,Jaya Prakash Gachhadar,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7605,निर्वाचित,Elected,1,,1,9,5079,Gramthan
+734,0,240999,जितेन्द्र प्रसाद साह,Jitendra Prasad Shah,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6501,निर्वाचित,Elected,1,,1,9,5080,Jahada
+741,0,252940,जिवछ प्रसाद गच्छदार,Giwach Prasad Ghachhadar,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6329,निर्वाचित,Elected,1,,1,9,5081,Dhanpalthan
+748,0,230858,मोहन प्रसाद तुम्‍वापो,Mohan Prasad Tumbapo,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12956,निर्वाचित,Elected,3,,1,9,5082,Patahrishanishchare
+755,0,191861,जित नारायण थापा मगर,Jeet Narayan Thapa Magar,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8299,निर्वाचित,Elected,1,,1,9,5083,Budhiganga
+764,0,187647,दिल प्रसाद राई,Dil Prasad Rai,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),16422,निर्वाचित,Elected,3,,1,9,5084,Belbari
+772,0,205531,बवी कुमार राई,Babi Kumar Rai,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8253,निर्वाचित,Elected,1,,1,9,5085,Miklajung
+779,0,194897,दिलीप कुमार अग्रवाल,Dilip Kumar Agrwal,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12861,निर्वाचित,Elected,3,,1,9,5086,Rangeli
+787,0,255405,नागेश्वर प्रसाद सिंह गंगाई,Nageshwar Prasad Singh Gangai,पुरुष,74,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,13135,निर्वाचित,Elected,3,,1,9,5087,Ratuwamai
+792,0,193178,भुपेन्‍द्र कुमार लावती,Bhupendra Kumar Lawati,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10227,निर्वाचित,Elected,3,,1,9,5088,Letang
+799,0,202291,नागेश कोईराला,Nagesh Koirala,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,30170,निर्वाचित,Elected,3,,1,9,5089,Biratnagar
+812,0,202761,श्‍याम प्रसाद राजवंशी,Shyam Prasad Rajbanshi,पुरुष,39,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8639,निर्वाचित,Elected,3,,1,9,5090,Sunwarshi
+820,0,190620,केदार प्रसाद गुरागाई,Kedar Prasad Guragain,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),21405,निर्वाचित,Elected,3,,1,9,5091,Sundarharaicha
+831,0,196185,दिनानाथ चौधरी  ,Dinanath Chaudhary ,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4874,निर्वाचित,Elected,1,,2,15,5801,Agnisair Krishna Savaran
+838,0,284621,ललन प्रसाद गुप्‍ता ,Lalan Prasad Gupta ,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7889,निर्वाचित,Elected,3,,2,15,5802,Kanchanrup
+848,0,183493,जय प्रकाश चौधरी थारु,Jay Prakash Chaudhary Tharu,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5882,निर्वाचित,Elected,3,,2,15,5803,Khadak
+864,0,175520,विद्दानन्द चौधरी,BIDHAYANAND CHAUDHARY,पुरुष,25,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,2895,निर्वाचित,Elected,1,,2,15,5804,Chhinnamasta
+877,0,304762,राम लखन मलाह,Ram Lakhan Malah,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5854,निर्वाचित,Elected,3,,2,15,5805,Dakneshwori
+885,0,235741,विजय कुमार यादव,Bijay Kumar Yadav,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3556,निर्वाचित,Elected,1,,2,15,5806,Tirahut
+897,0,284717,अरुण कुमार मंडल,Arun Kumar Mandal,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5474,निर्वाचित,Elected,1,,2,15,5807,Tilathi Koiladi
+905,0,192414,ओम प्रकाश मण्डल,Om Prakash Mandal,पुरुष,47,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4149,निर्वाचित,Elected,1,,2,15,5808,Rajgadh
+919,0,191149,अातेश कुमार सिह,Atesh Kumar Singh,पुरुष,35,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5693,निर्वाचित,Elected,3,,2,15,5809,Bode Barsain
+926,0,169881,सुनिल कुमार मण्डल,Sunil Kumar Mandal,पुरुष,50,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4570,निर्वाचित,Elected,1,,2,15,5810,Mahadeva
+940,0,229246,भिमराज यादव,Bhimraj Yadav,पुरुष,56,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,9624,निर्वाचित,Elected,3,,2,15,5811,Rajbiraj
+958,0,278080,दिनेश कुमार यादव,DINESH KUMAR YADAV,पुरुष,47,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4269,निर्वाचित,Elected,1,,2,15,5812,Rupani
+973,0,171148,खेम चन्द्र यादव,Khem Chandra Yadav,पुरुष,38,101,2289,लाउड स्पिकर,Loud Speaker,जनमत पार्टी (जपा),,2994,निर्वाचित,Elected,1,,2,15,5813,Balan Bihul
+981,0,173515,उमेश प्रसाद यादव,Umesh Prasad Yadav,पुरुष,52,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3164,निर्वाचित,Elected,1,,2,15,5814,Bishnupur
+995,0,182186,जितेन्द्र प्रसाद गुप्ता कलवार,Jitendra Prasad Gupta Kalwar,पुरुष,49,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),5392,निर्वाचित,Elected,3,,2,15,5815,Shambhunath
+1004,0,258860,कृष्ण प्रसाद ढकाल,Krishna Prasad Dhakal,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4469,निर्वाचित,Elected,3,,2,15,5816,Saptakoshi
+1011,0,234572,गीता चौधरी,Gita Chaudhary,महिला,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7292,निर्वाचित,Elected,3,,2,15,5817,Surunga
+1019,0,169003,विरेन्द्र माझी,Birendra Majhi,पुरुष,46,101,2289,लाउड स्पिकर,Loud Speaker,जनमत पार्टी (जपा),,6407,निर्वाचित,Elected,3,,2,15,5818,Hanumannagar Kankalini
+1029,0,182688,अशोक कुमार यादव,Ashok Kumar Yadav,पुरुष,34,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3233,निर्वाचित,Elected,1,,2,16,5155,Arnama
+1045,0,188623,शिबजी यादव,Shibjee Yadav,पुरुष,48,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3460,निर्वाचित,Elected,1,,2,16,5156,Aurahi
+1056,0,185335,राम पुकार साह तेली,Ram Pukar Sah Teli,पुरुष,64,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5883,निर्वाचित,Elected,3,,2,16,5158,Kalyanpur
+1074,0,199297,श्‍याम कुमार श्रेष्‍ठ,Shyam Kumar Shrestha,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7908,निर्वाचित,Elected,3,,2,16,5159,Golbazar
+1102,0,199869,शिव शंकर महतो,Shiv Shankar Mahato,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7056,निर्वाचित,Elected,3,,2,16,5160,Dhangadhimai
+1117,0,242573,राम प्रमोद यादव,Ram Pramod Yadav,पुरुष,39,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2695,निर्वाचित,Elected,1,,2,16,5161,Naraha
+1133,0,183507,शिव उदगार यादव,Shiv Udgar Yadav,पुरुष,41,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,4554,निर्वाचित,Elected,1,,2,16,5162,Nawarajpur
+1157,0,192654,सन्तोष कुमार महतो,Santosh Kumar Mahato,पुरुष,45,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3844,निर्वाचित,Elected,1,,2,16,5163,Bariyarpatti
+1170,0,198237,उग्र नारायण यादव,Ugara Narayan Yadav,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4302,निर्वाचित,Elected,1,,2,16,5164,Bhagawanpur
+1186,0,239095,श्रवण कुमार यादव,Sharawan Kumar Yadav,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5233,निर्वाचित,Elected,3,,2,16,5165,Mirchaiya
+1208,0,254778,चतुरानन्द ठाकुर,Chaturanand Thakur,पुरुष,64,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3845,निर्वाचित,Elected,1,,2,16,5166,Laxmipur Patari
+1220,0,198816,महेश प्रसाद चौधरी,Mahesh Prasad Chaudhary,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,20105,निर्वाचित,Elected,3,,2,16,5167,Lahan
+1241,0,252100,सत्य नारायण यादव,Satya Narayan Yadav,पुरुष,69,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2158,निर्वाचित,Elected,1,,2,16,5168,Bishnupur
+1258,0,217408,केदार नाथ यादव,Kedar Nath Yadav,पुरुष,41,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),3407,निर्वाचित,Elected,1,,2,16,5169,Sakhuwanankarkatti
+1273,0,184793,नवीन कुमार यादव,Navin Kumar Yadav,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),11143,निर्वाचित,Elected,3,,2,16,5170,Siraha
+1298,0,183497,राम औतार यादव,Ram Autar Yadav,पुरुष,59,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4434,निर्वाचित,Elected,3,,2,16,5171,Sukhipur
+1318,0,255800,भोला प्रसाद पोखरेल,Bhola Prasad Pokharel,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3839,निर्वाचित,Elected,3,,2,16,5819,Karjanha
+1330,0,226807,उमाशंकर प्रसाद साह,Uamashankar Parsad Sah,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3326,निर्वाचित,Elected,1,,2,20,5820,Aaurahi
+1346,0,207687,विशेश्‍वर यादव,Biseshsar Yadav,पुरुष,65,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3887,निर्वाचित,Elected,3,,2,20,5821,Kamala
+1367,0,258827,सुख देव यादव,Sukha Dev Yadav,पुरुष,58,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7913,निर्वाचित,Elected,3,,2,20,5822,Chhireshwornath
+1385,0,215450,जित नारायण यादव,Jit Narayan Yadav,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3108,निर्वाचित,Elected,3,,2,20,5823,Ganeshman Charnath
+1404,0,231089,दिपिन देव यादव,Dipin Dev Yadav,पुरुष,39,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3157,निर्वाचित,Elected,1,,2,20,5824,Janaknandani
+1416,0,218070,मनोज कुमार साह सुडी,Manoj Kumar Sah Sudi,पुरुष,50,999,2321,घण्टाघर,,स्वतन्त्र,Independent ,13465,निर्वाचित,Elected,3,,2,20,5825,Janakpurdham
+1455,0,206792,बालेश्‍वर मंण्‍डल,Baleshwar Mandal,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4718,निर्वाचित,Elected,3,,2,20,5826,Dhanusadham
+1481,0,227250,राज कुमार साह,Raj Kumar Sah,पुरुष,66,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2262,निर्वाचित,Elected,1,,2,20,5827,Dhanauji
+1494,0,275543,विनय कुमार यादव,Binay Kumar Yadav,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5556,निर्वाचित,Elected,3,,2,20,5828,Nagarain
+1520,0,252496,राम अशिष महतो,Ram Ashis Mahato,पुरुष,64,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4018,निर्वाचित,Elected,1,,2,20,5829,Bateshwor
+1536,0,226468,महेन्द्र महतो,Mahendra Mahato,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7031,निर्वाचित,Elected,3,,2,20,5830,Mithila
+1556,0,310349,राजेन्‍द्र प्रसाद यादव,Rajendra Prasad Yadav,पुरुष,64,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4304,निर्वाचित,Elected,3,,2,20,5831,Mithila Bihari
+1581,0,195492,जय कुमार यादव,Jay Kumar Yadav,पुरुष,34,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5410,निर्वाचित,Elected,1,,2,20,5832,Mukhiyapatti Musarmiya
+1608,0,215701,भोगेन्द्र मिश्र,Bhogendra Mishra,पुरुष,63,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3765,निर्वाचित,Elected,1,,2,20,5833,Lakshminiya
+1633,0,194388,वेचन दास तत्मा,Bechan Das Tatma,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4412,निर्वाचित,Elected,3,,2,20,5834,Bideha
+1653,0,220947,दिनेश प्रसाद यादब,Dinesh Prasad Yadav,पुरुष,43,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5743,निर्वाचित,Elected,3,,2,20,5835,Sahidnagar
+1669,0,225402,कारी राम यादव,Kari Ram Yadav,पुरुष,54,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4212,निर्वाचित,Elected,3,,2,20,5836,Sabaila
+1693,0,213858,प्रदीप कुमार यादब,Pradeep Kumar Yadav,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4409,निर्वाचित,Elected,3,,2,20,5837,Hansapur
+1711,0,172264,दिपेन्द्र महतो,Dipendra Mahato,पुरुष,37,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,8799,निर्वाचित,Elected,3,,2,21,5217,Gaushala
+1743,0,184765,सुरेश साह सोनार,Suresh Shah Sonar,पुरुष,49,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,7306,निर्वाचित,Elected,3,,2,21,5218,Jaleswor
+1765,0,210271,राम जानकी यादव,Ram Janaki Yadav,पुरुष,52,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5582,निर्वाचित,Elected,1,,2,21,5219,Pipra
+1784,0,174799,दिलिप कुमार पाण्डेय,Dilip Kumar Panday,पुरुष,47,122,2325,लोककला कोरिएको गाग्रोमा आँपको पात भएको कलश र त्यस माथि नरिवल,,तराइ-मधेश लोकतान्त्रिक पार्टी,,2336,निर्वाचित,Elected,1,,2,21,5225,Mahottari
+1800,0,234050,राम नाथ यादव,Ram Nath Yadav,पुरुष,52,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3893,निर्वाचित,Elected,1,,2,21,5228,Samsi
+1813,0,171338,विशेश्‍वर प्रसाद यादव,Bisheshwar Prasad Yadav,पुरुष,52,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4108,निर्वाचित,Elected,1,,2,21,5229,Sonama
+1828,0,172056,दीप नारायण मंडल,Dip Narayan Mandal,पुरुष,60,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,4499,निर्वाचित,Elected,1,,2,21,5838,Ekdanra
+1859,0,202714,प्रदिप कुमार खडका,Pardip Kumar Khadaka,पुरुष,60,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,6067,निर्वाचित,Elected,3,,2,21,5839,Aurahi
+1870,0,197092,प्रहलाद कुमार क्षेत्री,Parhalad Kumar Chhetari,पुरुष,45,999,724,जेब्रा,,स्वतन्त्र,Independent ,14210,निर्वाचित,Elected,3,,2,21,5840,Bardibas
+1882,0,172162,राम विजय महतो,Ram Bijay Mahato,पुरुष,53,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,5783,निर्वाचित,Elected,3,,2,21,5841,Balwa
+1904,0,311134,संजीव कुमार साह,Sanjib Kumar Sah,पुरुष,40,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,5617,निर्वाचित,Elected,3,,2,21,5842,Bhangaha
+1917,0,168524,हरि प्रसाद मण्डल,Hari Prasad Mandal,पुरुष,48,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4003,निर्वाचित,Elected,3,,2,21,5843,Matihani
+1932,0,227114,मोहन पाण्डेय,Mohan Pandey,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5884,निर्वाचित,Elected,3,,2,21,5844,Manra Siswa
+1951,0,314912,राम दुलार साह,Ram Dular Sah,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5349,निर्वाचित,Elected,3,,2,21,5845,Ramgopalpur
+1969,0,252980,शैलेन्‍द्र कुमार यादव,Sailendra Kumar Yadav,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5429,निर्वाचित,Elected,3,,2,21,5846,Loharpatti
+1984,0,222709,मनोज कुमार अचार्य,MANOJ KUMAR ACHARYA,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8480,निर्वाचित,Elected,3,,2,22,5230,Ishworpur
+1998,0,268790,राज कुमार महतो,Raj Kumar Mahato,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3995,निर्वाचित,Elected,1,,2,22,5234,Chandranagar
+2014,0,189611,कल्पना कुमारी कटुवाल,Kalpana Kumari Katubal,महिला,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12273,निर्वाचित,Elected,3,,2,22,5236,Barahathawa
+2036,0,175074,भरत कुमार थापा,Bharat Kumar Thapa,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),11357,निर्वाचित,Elected,3,,2,22,5238,Bagmati
+2047,0,247424,नागेन्द्र प्रसाद यादव,NAGANDRA PRASAD YADAV,पुरुष,70,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9078,निर्वाचित,Elected,3,,2,22,5240,Malangawa
+2064,0,223021,वासु देव अधिकारी,Basu Dev Adhikari,पुरुष,69,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9561,निर्वाचित,Elected,3,,2,22,5242,Lalbandi
+2074,0,247798,रमेश वुढाथोकी,Ramesh Budhatohoki,पुरुष,56,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7002,निर्वाचित,Elected,3,,2,22,5246,Hariwan
+2091,0,211388,ब्रम्ह देव राय,Bramha Dev Ray,पुरुष,66,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6444,निर्वाचित,Elected,3,,2,22,5847,Kabilasi
+2104,0,229878,रुपेश कुमार,RUPESH KUMAR,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5281,निर्वाचित,Elected,1,,2,22,5848,Kaudena
+2121,0,183277,देवेन्द्र कुमार यादव,Devendra Kumar Yadav,पुरुष,52,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,5294,निर्वाचित,Elected,3,,2,22,5849,Godaita
+2142,0,172474,कृष्ण कुमार यादव,Krishna Kumar Yadav,पुरुष,42,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5915,निर्वाचित,Elected,1,,2,22,5850,Chakraghatta
+2166,0,213698,रामआश्रय साह,Ramaashray Sah,पुरुष,78,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4477,निर्वाचित,Elected,1,,2,22,5851,Dhankaul
+2181,0,280132,धिरेन्द्र राय,Dhirendra Ray,पुरुष,31,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2466,निर्वाचित,Elected,1,,2,22,5852,Parsa
+2200,0,231045,रामा शंकर प्रसाद कुशवाहा,Rama Shankar Prasad Kushwaha,पुरुष,35,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4643,निर्वाचित,Elected,3,,2,22,5853,Balara
+2218,0,204649,राम सिहासन राय,Ram Sihan Ray,पुरुष,48,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,4946,निर्वाचित,Elected,1,,2,22,5854,Basbariya
+2234,0,222546,राम पदारथ साह तेली,Ram Padarath Sah Teli,पुरुष,80,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4668,निर्वाचित,Elected,1,,2,22,5855,Bramhapuri
+2254,0,211958,राजा बाबु यादव,Raja Babu Yadav,पुरुष,22,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4081,निर्वाचित,Elected,1,,2,22,5856,Ramnagar
+2275,0,178736,जवाहर लाल यादव,Jawahar Lal Yadav,पुरुष,59,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3211,निर्वाचित,Elected,1,,2,22,5857,Bishnu
+2288,0,200514,गोपाल पजियार,Gopal Pajiyar,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6938,निर्वाचित,Elected,3,,2,22,5858,Haripur
+2298,0,267493,विनोद कुमार साह तेली,Binod Kumar Sah Teli,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5099,निर्वाचित,Elected,3,,2,22,5859,Haripurwa
+2309,0,306756,कन्थमनी प्रसाद कलवार,Kanthmani Prasad Kalwar,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4564,निर्वाचित,Elected,3,,2,32,5336,Garuda
+2349,0,239668,सञ्जय कुमार काफ्ले,Sanjay Kumar Kaphle,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9163,निर्वाचित,Elected,3,,2,32,5339,Chandrapur
+2369,0,204448,कौशल्‍या देवी,Kaushaliya Devi,महिला,66,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,6282,निर्वाचित,Elected,3,,2,32,5860,Ishanath
+2389,0,237691,अजय प्रकाश -,Ajay Prakash ,पुरुष,29,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7172,निर्वाचित,Elected,3,,2,32,5861,Katahariya
+2423,0,213540,श्याम प्रसाद यादव,Shyam Prasad Yadav,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8631,निर्वाचित,Elected,3,,2,32,5862,Gadhimai
+2446,0,202848,सन्तलाल प्रसाद चौधरी,Santlal Prasad Chaudhary,पुरुष,62,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5143,निर्वाचित,Elected,3,,2,32,5863,Gujara
+2465,0,209951,शम्भु साह,Shambhu Sah,पुरुष,50,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),6381,निर्वाचित,Elected,3,,2,32,5864,Gaur
+2489,0,188507,शम्भु कुमार सिंह,Shambhu Kumar Singh,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4204,निर्वाचित,Elected,1,,2,32,5865,Durga Bhagwati
+2503,0,200893,प्रेमलाल साह कानु,Premlal Sah Kanu,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4292,निर्वाचित,Elected,3,,2,32,5866,Dewahhi Gonahi
+2531,0,195154,शेख वकिल,Shekh Wakil,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6823,निर्वाचित,Elected,3,,2,32,5867,Paroha
+2554,0,172944,गोपाल राय यादव,Gopal Ray Yadav,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4851,निर्वाचित,Elected,3,,2,32,5868,Phatuwa Bijayapur
+2569,0,185601,प्रदीप कुमार यादव,Pradip Kumar Yadav,पुरुष,45,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),4810,निर्वाचित,Elected,3,,2,32,5869,Baudhimai
+2587,0,184681,बैजनाथ प्रसाद यादव,Baijnath Prasad Yadav,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4288,निर्वाचित,Elected,3,,2,32,5870,Madhav Narayan
+2612,0,235634,रीना कुमारी साह,Rina Kumari Shah,महिला,37,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5564,निर्वाचित,Elected,3,,2,32,5871,Maulapur
+2633,0,169167,महमद सउद,Mahmad Saud,पुरुष,39,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,2929,निर्वाचित,Elected,1,,2,32,5872,Yemunamai
+2654,0,190790,भीखारी प्रसाद यादव,Bhikhari Prasad Yadav,पुरुष,60,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),6999,निर्वाचित,Elected,3,,2,32,5873,Rajdevi
+2672,0,192964,मो. राजीक अ‍ालम,MD. Razique Alam,पुरुष,27,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6335,निर्वाचित,Elected,3,,2,32,5874,Rajpur
+2706,0,263490,विनोद प्रसाद कुर्मी,Binod Prasad Kurmi,पुरुष,51,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),6112,निर्वाचित,Elected,3,,2,32,5875,Brindaban
+2730,0,266469,जवाहर प्रसाद,Jawahar Prasad,पुरुष,72,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4087,निर्वाचित,Elected,1,,2,33,5349,Adarshkotwal
+2746,0,182820,शम्भु प्रसाद यादव,Shambhu Prasad Yadav,पुरुष,50,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5598,निर्वाचित,Elected,1,,2,33,5350,Karaiyamai
+2757,0,203496,विनोद प्रसाद साह,Binod Prasad Sah,पुरुष,60,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),24174,निर्वाचित,Elected,3,,2,33,5351,Kalaiya
+2770,0,243936,राम प्रसाद चौधरी,Ram Prasad Chaudhary,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9105,निर्वाचित,Elected,3,,2,33,5352,Kolhabi
+2778,0,219954,राजन पौडेल,Rajan Paudel,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),18743,निर्वाचित,Elected,3,,2,33,5353,Jitpur Simara
+2789,0,277598,उदय प्रसाद यादव,Uday Prasad Yadav,पुरुष,35,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,4176,निर्वाचित,Elected,1,,2,33,5354,Devtal
+2797,0,208670,सुरथ पुरी,Surath Puri,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),9475,निर्वाचित,Elected,3,,2,33,5355,Nijgadh
+2806,0,190845,अशोक कुमार जयसवाल,Ashok Kumar Jayswal,पुरुष,51,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5426,निर्वाचित,Elected,1,,2,33,5360,Baragadhi
+2815,0,233444,उपेन्द्र प्रसाद यादव,Upendra Prasad Yadav,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8670,निर्वाचित,Elected,3,,2,33,5361,Mahagadhimai
+2826,0,170941,किसोरी प्रसाद कलवार,Kishori Prasad Kalwar,पुरुष,62,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,11137,निर्वाचित,Elected,3,,2,33,5362,Simraungadh
+2844,0,168413,राजेश प्रसाद यादव,Rajesh Prasad Yadav,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5351,निर्वाचित,Elected,1,,2,33,5363,Suwarna
+2854,0,301995,जलन्धर सिंह जैसवार,Jalandhar Singh Jaiswar,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4732,निर्वाचित,Elected,3,,2,33,5876,Pacharauta
+2875,0,279176,रामक्षत्री प्रसाद कुर्मि,Ramchatri Prasad Kurmi,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2917,निर्वाचित,Elected,1,,2,33,5877,Parwanipur
+2884,0,192577,विनोद प्रसाद जैसवाल,Binod Prasad Jaisawal,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4488,निर्वाचित,Elected,1,,2,33,5878,Prasauni
+2897,0,296743,रुस्तम अंसारी,Rustam Ansari,पुरुष,43,42,42,तराजु,,विवेकशील साझा पार्टी,Bibekshil Sajha Party,4485,निर्वाचित,Elected,1,,2,33,5879,Pheta
+2910,0,168548,जुल्फकार अलि भुटो,Zulphakar Ali Bhuto,पुरुष,51,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4317,निर्वाचित,Elected,1,,2,33,5880,Bishrampur
+2927,0,185267,मनोज कुमार,Manoj Kumar,पुरुष,38,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4188,निर्वाचित,Elected,1,,2,34,5364,Chhipaharmai
+2938,0,219026,श्रीकान्त प्रसाद यादव,Srikant Prasad Yadav,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5749,निर्वाचित,Elected,1,,2,34,5365,Jagarnathpur
+2951,0,318360,मदन प्रसाद चौहान,Madan Prasad Chauhan,पुरुष,56,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3091,निर्वाचित,Elected,1,,2,34,5366,Dhobini
+2964,0,254378,सुरेश प्रसाद,Suresh Prasad,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4685,निर्वाचित,Elected,1,,2,34,5367,Pakahamainpur
+2973,0,170844,प्रमोद तिवारी,PRAMOD TIWARI,पुरुष,52,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4141,निर्वाचित,Elected,1,,2,34,5372,Bindabasini
+2991,0,237863,जसवन्त यादव,Jaswant Yadav,पुरुष,32,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6641,निर्वाचित,Elected,1,,2,34,5375,SakhuwaPrasauni
+3017,0,172032,बशिष्‍ट कुमार,Bashist Kumar,पुरुष,21,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,3743,निर्वाचित,Elected,1,,2,34,5881,Kalikamai
+3042,0,208721,अनोज चौधरी,ANOJ CHAUDHARY,पुरुष,31,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4560,निर्वाचित,Elected,1,,2,34,5882,Jirabhawani
+3048,0,191898,लाल बहादुर श्रेष्‍ठ,Lal Bahadur Shrestha,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4049,निर्वाचित,Elected,1,,2,34,5883,Thori
+3058,0,188414,दिनेश कुमार चौधरी ,Dinesh Kumar Chaudhary ,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5144,निर्वाचित,Elected,1,,2,34,5884,Paterwasugauli
+3070,0,279148,गोकर्ण पाठक,Gokarna Pathak,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6624,निर्वाचित,Elected,3,,2,34,5885,Parsagadhi
+3086,0,184328,प्रदुमन प्रसाद चौहान,Praduman Prasad Chauhan,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5554,निर्वाचित,Elected,3,,2,34,5886,Pokhariya
+3101,0,182986,सिंगासन सा तेली,Singasan Sa Teli,पुरुष,70,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,6004,निर्वाचित,Elected,3,,2,34,5887,Bahudaramai
+3114,0,315049,राजेश मान सिंह,Rajesh Man Singh,पुरुष,51,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,46215,निर्वाचित,Elected,3,,2,34,5888,Birgunj
+3144,0,183029,अर्जुन प्रसाद शिवाकोटी,Arjun Prasad Shiwakoti,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5786,निर्वाचित,Elected,1,,3,17,5172,Kalinchok
+3154,0,188770,विश्‍वास कार्की,BISHWASH KARKI,पुरुष,31,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4751,निर्वाचित,Elected,1,,3,17,5173,Gaurishankar
+3162,0,170696,मित्र बहादुर जिरेल,Mitra Bahadur Jirel,पुरुष,60,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2949,निर्वाचित,Elected,3,,3,17,5174,Jiri
+3166,0,195117,प्रोण प्रताप के सी,PRONA PRATAP K C,पुरुष,51,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),5490,निर्वाचित,Elected,1,,3,17,5175,Tamakoshi
+3172,0,186584,इश्‍वर नारायण मानन्धर,Ishwor Narayan Manandhar,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8723,निर्वाचित,Elected,3,,3,17,5176,Bhimeshwor
+3180,0,170921,हिरा कुमार तमाङ,Hira Kumar Tamang,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5169,निर्वाचित,Elected,1,,3,17,5177,Melung
+3190,0,268485,संजीव वली,Sanjib Oli,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4100,निर्वाचित,Elected,1,,3,17,5178,Bigu
+3201,0,186710,छवि लामा,Chhabi Lama,पुरुष,61,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5299,निर्वाचित,Elected,1,,3,17,5179,Baiteshwor
+3209,0,252381,रिमल बाबु श्रेष्‍ठ,RIMAL BABU SHRESTHA,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4918,निर्वाचित,Elected,1,,3,17,5180,Sailung
+3217,0,188155,शेर वहादुर सुनुवार,Sher Bahadur Sunuwar,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3728,निर्वाचित,Elected,1,,3,18,5181,Umakunda
+3221,0,179302,ज्ञान कुमार श्रेष्ठ,Gyan Kumar Shrestha,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7359,निर्वाचित,Elected,1,,3,18,5182,Khadadevi
+3227,0,218236,काजी बहादुर खड्का,Kaji Bahadur Khadka,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6093,निर्वाचित,Elected,1,,3,18,5183,Gokulganga
+3231,0,204799,मैन कु्मार मोक्तान,Main Kumar Moktan,पुरुष,42,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6270,निर्वाचित,Elected,1,,3,18,5184,Doramba Shailung
+3238,0,252234,लव श्रेष्‍ठ,Laba Shrestha,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),9718,निर्वाचित,Elected,3,,3,18,5185,Manthali
+3247,0,201943,लवश्री न्‍यौपाने,Labashree Neupane,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6639,निर्वाचित,Elected,3,,3,18,5186,Ramechhap
+3251,0,238257,केशव महत,Keshab Mahat,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5112,निर्वाचित,Elected,1,,3,18,5187,Likhu Tamakoshi
+3257,0,270296,ठुलो कान्छा तमाङ,Thulo Kanchha Tamanga,पुरुष,54,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5398,निर्वाचित,Elected,1,,3,18,5188,Sunapati
+3263,0,294097,उपेन्द्र कुमार पोखरेल,Upendra Kumar Pokharel,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14187,निर्वाचित,Elected,3,,3,19,5189,Kamalamai
+3270,0,230439,शंकर राज वराल,Shankar Raj Baral,पुरुष,48,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4744,निर्वाचित,Elected,1,,3,19,5190,Golanjor
+3274,0,195014,जगत बहादुर भोलन,Jagat Bahadur Bholan,पुरुष,68,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2102,निर्वाचित,Elected,1,,3,19,5191,Ghanglekh
+3279,0,213979,कर्ण बहादुर मगर,Karna Bahadur Magar,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9239,निर्वाचित,Elected,1,,3,19,5192,Tinpatan
+3283,0,210481,दिनेश अधिकारी,Dinesh Adhikari,पुरुष,50,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),15838,निर्वाचित,Elected,3,,3,19,5193,Dudhouli
+3290,0,213393,पार्वती सुनुवार,Parbati Sunuwar,महिला,37,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4062,निर्वाचित,Elected,1,,3,19,5194,Phikkal
+3294,0,243288,विमर्स मुक्तान,Bimarsa Muktan,पुरुष,36,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5194,निर्वाचित,Elected,1,,3,19,5195,Marin
+3301,0,211161,दिपा वोहोरा-दाहाल,Deepa Bohora-Dahal,महिला,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5376,निर्वाचित,Elected,1,,3,19,5196,Sunkoshi
+3308,0,264417,बज्र ध्वज वाइवा,Bajra Dwoj Waiba,पुरुष,54,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4729,निर्वाचित,Elected,1,,3,19,5197,Hariharpurgadhi
+3315,0,206016,माधव प्रसाद अर्याल,Madab Prasad Aryal,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2999,निर्वाचित,Elected,1,,3,23,5247,Uttargaya
+3324,0,255049,हरीकृष्ण देवकोटा,Harikrishna Devkota,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2622,निर्वाचित,Elected,1,,3,23,5248,Kalika
+3333,0,205268,कैसाङ नुर्पु तामाङ,Kaisang Nurpu Tamang,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2563,निर्वाचित,Elected,1,,3,23,5249,Gosaikunda
+3339,0,205692,नुर्वु स्याङवो घले,Nurbu Shyanbo Ghale,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3474,निर्वाचित,Elected,1,,3,23,5250,Naukunda
+3344,0,268121,बुचुङ तमाङ,Buchung Tamang,पुरुष,34,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1430,निर्वाचित,Elected,1,,3,23,5251,Amachodingmo
+3350,0,232242,रण बहादुर तामाङ,Rana Bahadur Tamang,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1609,निर्वाचित,Elected,1,,3,24,5252,Khaniyabash
+3357,0,204921,भक्त बहादुर लामा,Bhakta Bahadur Tamang,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6262,निर्वाचित,Elected,1,,3,24,5253,Gangajamuna
+3361,0,246502,गणेश लाल श्रेष्‍ठ,Ganesh Lal Shrestha,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6308,निर्वाचित,Elected,1,,3,24,5254,Gajuri
+3379,0,196453,केदारनाथ खतिवडा,Kedarnath Khatiwada,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7309,निर्वाचित,Elected,1,,3,24,5255,Galchi
+3396,0,271424,यामनाथ दनै,YamNath Danai,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8034,निर्वाचित,Elected,1,,3,24,5256,Jwalamukhi
+3401,0,215838,राजु उप्रेती,Raju Upreti,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6771,निर्वाचित,Elected,1,,3,24,5257,Tripura Sundari
+3412,0,183672,राम कुमार आचार्य,Ram Kumar Acharya,पुरुष,58,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10355,निर्वाचित,Elected,1,,3,24,5258,Thakre
+3430,0,248370,वाल कृष्‍ण आचार्य,Bal Krishna Acharya,पुरुष,52,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),8706,निर्वाचित,Elected,3,,3,24,5259,Dhunibesi
+3439,0,214385,भीम प्रसाद ढुङ्गाना,Bhim Prasad Dhunguna,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14575,निर्वाचित,Elected,3,,3,24,5260,Nilakantha
+3451,0,220956,मेघ नाथ रिजाल,Megha Nath Rijal,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2542,निर्वाचित,Elected,1,,3,24,5261,Netrawati Dabjong
+3460,0,241665,कृष्‍ण बहादुर थपलिया,Krishna Bahadur Thapaliya,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7680,निर्वाचित,Elected,1,,3,24,5262,Benighat Rorang
+3471,0,192981,राम सिंह तामाङ,Ram Singh Tamang,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2792,निर्वाचित,Elected,1,,3,24,5263,Rubi Valley
+3478,0,220010,परशु राम खतिवडा,Parasu Ram Khatiwada,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7956,निर्वाचित,Elected,1,,3,24,5264,Siddhalek
+3486,0,213378,सुमन  तामाङ,Suman  Tamang,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4909,निर्वाचित,Elected,1,,3,25,5265,Kakani
+3495,0,231350,बिर बल तामाङ,Bir Bal Tamang,पुरुष,39,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3638,निर्वाचित,Elected,1,,3,25,5266,Kispang
+3502,0,247158,सन्तमान तामाङ,Santaman Tamang,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3241,निर्वाचित,Elected,1,,3,25,5267,Tadi
+3510,0,249010,शिव अधिकारी,Shiva Adhikari,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5665,निर्वाचित,Elected,1,,3,25,5268,Tarkeshwar
+3515,0,241285,शंकर बहादुर थापा,Shankar Bahadur Thapa,पुरुष,55,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4473,निर्वाचित,Elected,1,,3,25,5269,Dupcheshwar
+3522,0,289231,तेज बहादुर तमाङ,Tej Bahadur Tamang,पुरुष,50,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4354,निर्वाचित,Elected,1,,3,25,5270,Panchakanya
+3528,0,233759,जगत बहादुर गुरुङ,Jagat Bahadur Gurung,पुरुष,51,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),13222,निर्वाचित,Elected,3,,3,25,5271,Belkotgadhi
+3535,0,246184,आसा तामाङ,Asha Tamang,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3209,निर्वाचित,Elected,1,,3,25,5272,Myagang
+3541,0,277713,ध्रुब श्रेष्‍ठ,Dhurba Shrestha,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4067,निर्वाचित,Elected,1,,3,25,5273,Likhu
+3548,0,213819,राजन श्रेष्‍ठ,Rajan Shrestha,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15826,निर्वाचित,Elected,3,,3,25,5274,Bidur
+3558,0,270095,गोविन्‍द प्रसाद थपलिया,Govinda Prasad Thapaliya,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4182,निर्वाचित,Elected,1,,3,25,5275,Shivapuri
+3562,0,291297,सन्त बहादुर तामाङ,Santa Bahadur Tamang,पुरुष,58,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3759,निर्वाचित,Elected,1,,3,25,5276,Suryagadhi
+3568,0,321018,उपेन्द्र कार्की,Upendra Karki,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11322,निर्वाचित,Elected,3,,3,26,5277,Kageshwori Manahora
+3578,0,169075,वालेन्द्र साह,Balendra Shah,पुरुष,32,999,2319,लौरो,,स्वतन्त्र,Independent ,61767,निर्वाचित,Elected,3,,3,26,5278,Kathmandu
+3633,0,287288,राज कुमार नकर्मी,Raj Kumar Nakarmi,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9043,निर्वाचित,Elected,3,,3,26,5279,Kirtipur
+3645,0,224773,दिपक कुमार रिसाल,Dipak Kumar Risal,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9692,निर्वाचित,Elected,3,,3,26,5280,Gokarneshwor
+3655,0,271898,घन श्याम गिरी,Ghana Shyam Giri,पुरुष,59,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15475,निर्वाचित,Elected,3,,3,26,5281,Chandragiri
+3675,0,271384,प्रकाश अधिकारी,Prakash Adhikari,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10340,निर्वाचित,Elected,3,,3,26,5282,Tokha
+3690,0,243462,कृष्‍ण हरि महर्जन,Krishna Hari Maharjan,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11988,निर्वाचित,Elected,3,,3,26,5283,Tarakeshwor
+3706,0,205815,मोहन बस्नेत,Mohan Basnet,पुरुष,66,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7201,निर्वाचित,Elected,3,,3,26,5284,Dakshinkali
+3715,0,264609,मोहन बहादुर बस्नेत,Mohan Bahadur Basnet,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10186,निर्वाचित,Elected,3,,3,26,5285,Nagarjun
+3726,0,277688,मिठाराम अधिकारी,Mitharam Adhikari,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),14250,निर्वाचित,Elected,3,,3,26,5286,Budhanilakantha
+3741,0,189601,रमेश नापित,Ramesh Napit,पुरुष,50,4,2279,हलो,,राष्ट्रिय प्रजातन्त्र पार्टी,Rastriya Prajatantra Party,4700,निर्वाचित,Elected,3,,3,26,5287,Shankharapur
+3749,0,291589,जिवन खत्री,Jeevan Khatri,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9550,निर्वाचित,Elected,3,,3,27,5288,Changunarayan
+3769,0,276006,सुनिल प्रजापति,Sunil Prajapati,पुरुष,57,12,12,मादल,,नेपाल मजदुर किसान पार्टी,Nepal Majdoor Kisan Party,29252,निर्वाचित,Elected,3,,3,27,5289,Bhaktapur
+3783,0,244530,सुरेन्द्र श्रेष्‍ठ,Surendra Shrestha,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15098,निर्वाचित,Elected,3,,3,27,5290,Madhyapur Thimi
+3796,0,233705,बासुदेव थापा,Basudev Thapa,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),14758,निर्वाचित,Elected,3,,3,27,5291,Suryabinayak
+3808,0,190417,कृष्ण मान लामा,Krishna Man Lama,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3104,निर्वाचित,Elected,1,,3,28,5292,Konjyosom
+3811,0,231120,गजेन्द्र महर्जन,Gajendra Maharjan,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,19170,निर्वाचित,Elected,3,,3,28,5293,Godawari
+3832,0,226955,बीर बहादुर लोप्चन,Bir Bahadur Lopchar,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4909,निर्वाचित,Elected,1,,3,28,5294,Bagmati
+3839,0,262364,गणेश के.सी.,Ganesh K.C.,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3455,निर्वाचित,Elected,1,,3,28,5295,Mahankal
+3848,0,215830,हरि गोविन्द श्रेष्ठ,Hari Govinda Shrestha,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),9350,निर्वाचित,Elected,3,,3,28,5296,Mahalaxmi
+3857,0,243068,चिरी बाबु महर्जन,Chiri Babu Maharjan,पुरुष,65,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,42722,निर्वाचित,Elected,3,,3,28,5297,Lalitpur
+3870,0,241550,ईन्द्र बहादुर थिङ,Indra Bahadur Thing,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4485,निर्वाचित,Elected,1,,3,29,5298,Khanikhola
+3874,0,225236,रेणुका चौलागाई,Renuka Chaulagain,महिला,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6228,निर्वाचित,Elected,1,,3,29,5299,Chaurideurali
+3879,0,228800,चन्द्र बहादुर तामाङ्ग,Chandra Bahadur Tamang,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7077,निर्वाचित,Elected,1,,3,29,5300,Temal
+3884,0,198546,अशोक कुमार ब्याञ्जु श्रेष्ठ,Ashok Kumar Byanju Shrestha,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8351,निर्वाचित,Elected,3,,3,29,5301,Dhulikhel
+3894,0,212013,कुनसाङ लामा,Kunsang Lama,पुरुष,65,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11211,निर्वाचित,Elected,3,,3,29,5302,Namobuddha
+3897,0,213301,राम सरण भण्डारी,Ram Sharan Bhandari,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14050,निर्वाचित,Elected,3,,3,29,5303,Panauti
+3906,0,267579,महेश खरेल,Mahesh Kharel,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12836,निर्वाचित,Elected,3,,3,29,5304,Panchkhal
+3912,0,212306,शान्ति रत्‍न शाक्य,Shanti Ratna Shakya,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,13793,निर्वाचित,Elected,3,,3,29,5305,Banepa
+3922,0,234320,भगवान अधिकारी,Bhagawan Adhikari,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6019,निर्वाचित,Elected,1,,3,29,5306,Bethanchowk
+3926,0,221460,प्रेम वहादुर भुजेल,Prem Bahadur Bhujel,पुरुष,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5792,निर्वाचित,Elected,1,,3,29,5307,Bhumlu
+3933,0,218922,टोक बहादुर तामाङ,Tok Bhadur Tamang,पुरुष,61,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),9406,निर्वाचित,Elected,3,,3,29,5308,Mandandeupur
+3941,0,281823,कान्छा लाल जिम्वा,Kanchha Lal Jimba,पुरुष,31,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4891,निर्वाचित,Elected,1,,3,29,5309,Mahabharat
+3943,0,273202,दिनेश लामा,Dinesh Lama,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7534,निर्वाचित,Elected,1,,3,29,5310,Roshi
+3947,0,258882,कृष्ण प्रसाद सापकोटा,Krishna Prasad Sapkota,पुरुष,61,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),11072,निर्वाचित,Elected,3,,3,30,5311,Chautara SangachokGadhi
+3956,0,312439,रेशम स्‍याङबो,Resham Syangbo,पुरुष,49,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5503,निर्वाचित,Elected,1,,3,30,5312,Jugal
+3960,0,231770,भक्त ध्वज बोहरा,Bhakta Dwaj Bohara,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4229,निर्वाचित,Elected,1,,3,30,5313,Tripurasundari
+3966,0,204423,टासी लामा,Tasi Lama,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5608,निर्वाचित,Elected,1,,3,30,5314,Panchpokhari Thangpal
+3975,0,287456,गंगा बहादुर तामाङ,Ganga Bahadur Tamang,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4666,निर्वाचित,Elected,1,,3,30,5315,Balefi
+3989,0,240041,पासाङ नुर्पु शेर्पा,PASAN NURPHU SHERPA,पुरुष,36,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2605,निर्वाचित,Elected,1,,3,30,5316,Bhotekoshi
+3997,0,274583,आइत मान तामाङ,Aaita Man Tamang,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11258,निर्वाचित,Elected,3,,3,30,5317,Melamchi
+4005,0,280675,झम्क नाथ नेपाल,Jhamka Nath Nepal,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7127,निर्वाचित,Elected,1,,3,30,5318,Indrawati
+4010,0,235442,राजु लामा (तामाङ),Raju Lama (Tamang),पुरुष,33,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3925,निर्वाचित,Elected,1,,3,30,5319,Lisangkhu Pakhar
+4019,0,191061,बाल कृष्ण बस्नेत,Bal Krishna Basnet,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7728,निर्वाचित,Elected,3,,3,30,5320,Barhabise
+4027,0,202224,टपिन्द्र प्रसाद तिमल्सिना,Tapindra Prasad Timalsina,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5932,निर्वाचित,Elected,1,,3,30,5321,Sunkoshi
+4034,0,189777,निमा ग्याजेन शेर्पा,Nima Gyaljen Sherpa,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5386,निर्वाचित,Elected,1,,3,30,5322,Helambu
+4040,0,306853,देव कृष्ण पुडासैनी शर्मा,Dev Krishna Pudasaini Sharma,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3722,निर्वाचित,Elected,1,,3,31,5323,Indrasarowar
+4045,0,208166,लोक बहादुर मुक्तान,Lok Bahadur Muktan,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4897,निर्वाचित,Elected,1,,3,31,5324,Kailash
+4050,0,248854,विष्‍णु वहादुर विष्‍ट,Bishnu Bahadur Bista,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),9719,निर्वाचित,Elected,3,,3,31,5325,Thaha
+4056,0,249823,धर्मराज लामिछाने,Dharmaraj Lamichhane,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11292,निर्वाचित,Elected,1,,3,31,5326,Bakaiya
+4062,0,232513,सर्केश घलान,SARKESH GHALAN,पुरुष,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7384,निर्वाचित,Elected,1,,3,31,5327,Bagmati
+4069,0,172182,हिदम लामा,Hidam Lama,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5591,निर्वाचित,Elected,1,,3,31,5328,Bhimphedi
+4075,0,222483,दोर्जे लामा स्याङतान,Dorje Lama Syangtan,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6706,निर्वाचित,Elected,1,,3,31,5329,Makawanpurgadhi
+4081,0,257937,रन्जन कालाखेति,Ranjan Kalakheti,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9366,निर्वाचित,Elected,1,,3,31,5330,Manahari
+4090,0,231885,राज कुमार मल्ल,Raj Kumar Malla,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5481,निर्वाचित,Elected,1,,3,31,5331,Raksirang
+4096,0,207613,मीना कुमारी लामा,Mina Kumari Lama,महिला,45,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),23075,निर्वाचित,Elected,3,,3,31,5332,Hetauda
+4114,0,187288,दान बहादुर गुरुङ्ग,Dan Bahadur Gurung,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6110,निर्वाचित,Elected,1,,3,35,5377,Ichchhyakamana
+4118,0,205132,विनोद रेग्मी,Binod Regmi,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10714,निर्वाचित,Elected,3,,3,35,5378,Kalika
+4125,0,222379,शशी कुमार खनिया,Sashi Kumar Khaniya,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14545,निर्वाचित,Elected,3,,3,35,5379,Khairahani
+4132,0,202219,रेणु दाहाल,Renu Dahal,महिला,45,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),52028,निर्वाचित,Elected,3,,3,35,5380,Bharatpur
+4159,0,197553,तारा कुमारी काजी महतो,Tara Kumari Kaji Mahato,महिला,46,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),9901,निर्वाचित,Elected,3,,3,35,5381,Madi
+4164,0,212168,प्रलाद सापकोटा,Pralad Sapkota,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,20796,निर्वाचित,Elected,3,,3,35,5382,Ratnanagar
+4173,0,192912,शमशेर लामा,Shamsher Lama,पुरुष,35,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),12524,निर्वाचित,Elected,3,,3,35,5383,Rapti
+4181,0,262934,दीपक देवकोटा,Deepak Devkota,पुरुष,42,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3787,निर्वाचित,Elected,1,,4,36,5384,Ajirkot
+4187,0,192773,राजु गुरुङ,Raju Gurung,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5556,निर्वाचित,Elected,1,,4,36,5385,Aarughat
+4192,0,192264,दिपक तिमिल्सिना,Deepak Timilsina,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6326,निर्वाचित,Elected,1,,4,36,5386,Gandaki
+4198,0,317953,कृष्‍ण बहादुर राना,Krishna Bahadur Rana,पुरुष,59,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),8964,निर्वाचित,Elected,3,,4,36,5387,Gorkha
+4206,0,198716,निमा लामा,Nima Lama,पुरुष,59,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1624,निर्वाचित,Elected,1,,4,36,5388,Chum Nubri
+4210,0,229512,लक्ष्मण गुरुङ,Laxman Gurung,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3771,निर्वाचित,Elected,1,,4,36,5389,Dharche
+4215,0,281241,विवस चिन्तन,Bibas Chintan,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6072,निर्वाचित,Elected,3,,4,36,5390,Palungtar
+4225,0,274213,लोक प्रसाद बन्जारा,Lok Prasad Banjara,पुरुष,50,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5651,निर्वाचित,Elected,1,,4,36,5391,Bhimsenthapa
+4231,0,214573,रमेश वाबु थापा मगर,Ramesh Babu Thapa Magar,पुरुष,50,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5474,निर्वाचित,Elected,1,,4,36,5392,Sahid Lakhan
+4237,0,263830,ज्ञानेन्‍द्र गुरुङ्ग,Gyanendra Gurung,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5403,निर्वाचित,Elected,1,,4,36,5393,Siranchok
+4244,0,283802,बिष्णु प्रसाद भट्ट,Bishnu Prasad Bhatta,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5719,निर्वाचित,Elected,1,,4,36,5394,Barpak Sulikot
+4249,0,176166,लोकेन्द्र वहादुर घले,Lokendra Bahadur Ghale,पुरुष,36,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),320,निर्वाचित,Elected,1,,4,37,5395,Chame
+4251,0,206673,कोन्जो तेन्जीङ लामा,Kunchok Tenzin Lama,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,158,निर्वाचित,Elected,1,,4,37,5396,Narpa Bhumi
+4253,0,174719,धन बहादुर गुरुङ,Dhan Bahadur Gurung,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,820,निर्वाचित,Elected,1,,4,37,5397,Narshon
+4255,0,168609,कान्छा घले,Kanchha Ghale,पुरुष,48,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),861,निर्वाचित,Elected,1,,4,37,5398,Manang Ingshyang
+4257,0,205133,सूर्य प्रसाद गुरुङ,Surya Prasad Gurung,पुरुष,48,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3856,निर्वाचित,Elected,1,,4,38,5399,Kwholasothar
+4260,0,267558,धन प्रसाद गुरुङ,Dhan Prasad Gurung,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3065,निर्वाचित,Elected,1,,4,38,5400,Dudhpokhari
+4264,0,202336,युवराज अधिकारी,Yubaraj Adhikari,पुरुष,46,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4738,निर्वाचित,Elected,1,,4,38,5401,Dordi
+4269,0,206182,गुमान सिंह अर्याल,Guman Singh Aryal,पुरुष,65,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),9479,निर्वाचित,Elected,3,,4,38,5402,Besishahar
+4274,0,280716,रमेश कुमार पाण्डे,Ramesh Kumar Pandey,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6551,निर्वाचित,Elected,3,,4,38,5403,MadhyaNepal
+4279,0,200752,अर्जुन गुरुङ,Arjun Gurung,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6130,निर्वाचित,Elected,1,,4,38,5404,Marsyangdi
+4282,0,244981,खड्ग बहादुर गुरुङ,Khadka Bahadur Gurung,पुरुष,58,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5826,निर्वाचित,Elected,3,,4,38,5405,Rainas
+4287,0,272431,कृष्‍ण प्रसाद कोईराला,Krishna Prasad Koirala,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6641,निर्वाचित,Elected,3,,4,38,5406,Sundarbazar
+4291,0,193046,विष्णु बहादुर के. सी.,Bishnu Bahadur K. C.,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6722,निर्वाचित,Elected,1,,4,39,5407,Annapurna
+4302,0,213741,धन राज आचार्य,Dhan Raj Acharya,पुरुष,52,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),58893,निर्वाचित,Elected,3,,4,39,5408,Pokhara
+4325,0,303352,मिन बहादुर गुरुङ्ग,Min Bahadur Gurung,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7099,निर्वाचित,Elected,1,,4,39,5409,Machhapuchchhre
+4328,0,223802,देवी जङ्ग गुरुङ्ग,Devi Jang Gurung,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6584,निर्वाचित,Elected,1,,4,39,5410,Madi
+4333,0,206687,नवराज ओझा,Nabaraj Ojha,पुरुष,34,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5749,निर्वाचित,Elected,1,,4,39,5411,Rupa
+4336,0,200784,शुक्र चुमान,Sukra Chuman,पुरुष,35,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3940,निर्वाचित,Elected,1,,4,40,5412,Anbukhaireni
+4342,0,226880,राजेन्द्र कृष्ण श्रेष्ठ,Rajendra Krishna Shrestha,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3335,निर्वाचित,Elected,1,,4,40,5413,Rhishing
+4348,0,259187,होम बहादुर थापा,Hom Bahadur Thapa,पुरुष,60,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4331,निर्वाचित,Elected,1,,4,40,5414,Ghiring
+4351,0,219923,तिल बहादुर थापा,Til Bahadur Thapa,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4306,निर्वाचित,Elected,1,,4,40,5415,Devghat
+4357,0,208648,सुरेन्द्र बहादुर थापा,Surendra Bahadur Thapa,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3229,निर्वाचित,Elected,1,,4,40,5416,Bandipur
+4362,0,259538,आनन्द राज त्रिपाठी,Aannda Raj Tirpathi,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12252,निर्वाचित,Elected,3,,4,40,5417,Bhanu
+4367,0,209926,दधि राज सुवेदी,Dadhi Raj Subedi,पुरुष,68,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8128,निर्वाचित,Elected,3,,4,40,5418,Bhimad
+4372,0,218351,श्रीप्रसाद श्रेष्ठ,Shreeprasad Shrestha,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4950,निर्वाचित,Elected,1,,4,40,5419,Myagde
+4379,0,254047,बैकुण्ठ नाथ न्यौपाने,Baikuntha Nath Neupane,पुरुष,62,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12078,निर्वाचित,Elected,3,,4,40,5420,Byas
+4390,0,211234,कृष्‍ण राज पण्डित,Krishna Raj Pandit,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12263,निर्वाचित,Elected,3,,4,40,5421,Shuklagandaki
+4397,0,211114,प्रकाश तिवारी,Prakash Tiwari,पुरुष,33,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5291,निर्वाचित,Elected,1,,4,41,5422,Arjunchaupari
+4400,0,168929,विश्वनाथ पौडेल,Bishwanath Poudel,पुरुष,46,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5177,निर्वाचित,Elected,1,,4,41,5423,Aandhikhola
+4404,0,202175,खिम बहादुर थापा,Khim Bahadur Thapa,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6700,निर्वाचित,Elected,1,,4,41,5424,Kaligandagi
+4409,0,276127,गुरु प्रसाद भट्‌टराई,Guru Prasad Bhattarai,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9621,निर्वाचित,Elected,3,,4,41,5425,Galyang
+4417,0,219161,देव बहादुर खाँड,Deb Bahadur Khan,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7490,निर्वाचित,Elected,3,,4,41,5426,Chapakot
+4421,0,203781,तुलसी राम रेग्मी,Tulashi Ram Regmi,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12494,निर्वाचित,Elected,3,,4,41,5427,Putalibazar
+4427,0,219523,घनश्‍याम सुवेदी,Ghanshyam Subedi,पुरुष,37,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3836,निर्वाचित,Elected,1,,4,41,5428,Phedikhola
+4431,0,275142,गोविन्द कुमार कर्माचार्य,Gobinda Kumar Karmacharya,पुरुष,65,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6504,निर्वाचित,Elected,3,,4,41,5429,Bhirkot
+4436,0,264674,कृष्ण खाँण,Krishna Khand,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),13776,निर्वाचित,Elected,3,,4,41,5430,Waling
+4442,0,206133,सूर्य बहादुर कुँवर,Surya Bahadur Kunwar,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4872,निर्वाचित,Elected,1,,4,41,5431,Biruwa
+4446,0,210053,खिम नारायण मानन्धर,Khim Narayan Manandhar,पुरुष,37,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4769,निर्वाचित,Elected,1,,4,41,5432,Harinas
+4450,0,200401,विष्णु प्रसाद भुसाल,Bishnu Prasad Bhusal,पुरुष,67,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),18608,निर्वाचित,Elected,3,,4,45,5461,Kawasoti
+4459,0,263793,मदन भक्त अधिकारी,Madhan Bhakta Adhikari,पुरुष,72,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,16455,निर्वाचित,Elected,3,,4,45,5462,Gaidakot
+4464,0,208920,हरि प्रसाद न्यौपाने,Hari Prasad Neupane,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12806,निर्वाचित,Elected,3,,4,45,5464,Devchuli
+4472,0,209279,प्रकाश ओझा,Prakash Ojha,पुरुष,38,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3976,निर्वाचित,Elected,1,,4,45,5468,Baudeekali
+4476,0,224942,दिपेन्‍द्र सुनारी,Dipendra Sunari,पुरुष,27,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4059,निर्वाचित,Elected,1,,4,45,5469,Bulingtar
+4479,0,184861,भिमलाल  अधिकारी ,Bhimlal Adhikari,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),16212,निर्वाचित,Elected,3,,4,45,5470,Madhyabindu
+4489,0,214211,घनश्याम गिरी,Ghanshyam Giri,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7658,निर्वाचित,Elected,1,,4,45,5472,Binayee Tribeni
+4498,0,241497,लक्ष्‍मी देवी पाण्‍डे,Laxmi Devi Pandey,महिला,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6455,निर्वाचित,Elected,1,,4,45,5475,Hupsekot
+4502,0,239472,मोहन सिंह लालचन,Mohan Singh Lalchan,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,760,निर्वाचित,Elected,1,,4,48,5502,Gharapjhong
+4504,0,219544,प्रदिप गौचन,Pradeep Gauchan,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),1144,निर्वाचित,Elected,1,,4,48,5503,Thasang
+4506,0,317431,लोप्साङ छोम्पेल विष्ट,Lopsang TSomfel Gista,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),589,निर्वाचित,Elected,1,,4,48,5504,Lo-Ghekar Damodarkunda
+4508,0,197618,रिङजीन नामगेल गुरुङ,Rinzin Namgyal Gurung,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),867,निर्वाचित,Elected,1,,4,48,5505,Waragung Muktikhsetra
+4510,0,311741,टसी न्हर्वु गुरुङ,Tasi Nharbu Gurung,पुरुष,38,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),668,निर्वाचित,Elected,1,,4,48,5506,Lomanthang
+4512,0,312088,भारत कुमार पुन,Bharat Kumar Pun,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4058,निर्वाचित,Elected,1,,4,49,5507,Annapurna
+4516,0,216209,प्रेम प्रसाद पुन,Prem Prasad Pun,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3123,निर्वाचित,Elected,1,,4,49,5508,Dhaulagiri
+4521,0,255070,सुरत के.सि.,Surat Kc,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7603,निर्वाचित,Elected,3,,4,49,5509,Beni
+4527,0,183576,सत प्रसाद रोका,Sat Prasad Roka,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3968,निर्वाचित,Elected,1,,4,49,5510,Mangala
+4532,0,228343,बेग प्रसाद गर्बुजा,Beg Prasad Garbuja,पुरुष,41,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3091,निर्वाचित,Elected,1,,4,49,5511,Malika
+4536,0,169942,भव बहादुर भण्डारी,BHAB BAHADUR BHANDARI,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4038,निर्वाचित,Elected,1,,4,49,5512,Raghuganga
+4541,0,212107,राजु थापा,Raju Thapa,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7751,निर्वाचित,Elected,1,,4,50,5513,Kanthekhola
+4543,0,263415,भरत शर्मा,Bharat Sharma,पुरुष,63,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5414,निर्वाचित,Elected,3,,4,50,5514,Galkot
+4548,0,280121,नर बहादुर पुन,Nar Bahadur Pun,पुरुष,58,10,10,गिलास,,राष्ट्रिय जनमोर्चा,Rastriya Janmorcha,8755,निर्वाचित,Elected,3,,4,50,5515,Jaimuni
+4552,0,271343,देव कुमार नेपाली,Dev Kumar Nepali,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5735,निर्वाचित,Elected,3,,4,50,5516,Dhorpatan
+4558,0,270060,जोकलाल बुढा,Joklal Budha,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2707,निर्वाचित,Elected,1,,4,50,5517,Taman Khola
+4563,0,215688,धन बहादुर वि.क,Dhan Bahadur B.K,पुरुष,51,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2285,निर्वाचित,Elected,1,,4,50,5518,Tara Khola
+4567,0,297634,सुर्य बहादुर घर्ती,Surya Bhadur Gharti,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5511,निर्वाचित,Elected,1,,4,50,5519,Nisikhola
+4571,0,217039,बसन्त कुमार श्रेष्ठ,Basanta Kumar Shrestha,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14678,निर्वाचित,Elected,3,,4,50,5520,Baglung
+4578,0,235895,गण्डकी थापा अधिकारी,Gandaki Thapa Adhikari,महिला,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7386,निर्वाचित,Elected,1,,4,50,5521,Badigad
+4582,0,211873,कृष्ण प्रसाद शर्मा,Krishna Prasad Sharma,पुरुष,38,10,10,गिलास,,राष्ट्रिय जनमोर्चा,Rastriya Janmorcha,3601,निर्वाचित,Elected,1,,4,50,5522,Bareng
+4584,0,257350,राम चन्द्र जोशी,Ram Chandra Joshi,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9849,निर्वाचित,Elected,3,,4,51,5523,Kushma
+4590,0,220887,राजु प्रसाद आचार्य,Raju Prasad Achrayad,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5657,निर्वाचित,Elected,1,,4,51,5524,Jaljala
+4597,0,261197,तोरण मल्ल ठकुरी,TORAN MALLA THAKURI,पुरुष,31,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3824,निर्वाचित,Elected,1,,4,51,5525,Painyu
+4602,0,241192,गंगाधर तिवारी,Gangadhar Tiwari,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7700,निर्वाचित,Elected,3,,4,51,5526,Phalebas
+4610,0,213128,इश्‍वरी प्रसाद भुसाल,Iswori Prasad Bhusal,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2753,निर्वाचित,Elected,1,,4,51,5527,Mahashila
+4614,0,196326,हिरा देवि शर्मा,Hira Devi Sharma,महिला,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6019,निर्वाचित,Elected,1,,4,51,5528,Modi
+4621,0,243245,परविन गुरुङ,Prabin Gurung,पुरुष,49,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3469,निर्वाचित,Elected,1,,4,51,5529,Bihadi
+4625,0,231730,भगतसिह खड्का ,Bhagat singh Khadka ,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5589,निर्वाचित,Elected,1,,5,42,5433,Isma
+4630,0,217310,बेद बहादुर थापा,Bed Bahadur Thapa,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4810,निर्वाचित,Elected,1,,5,42,5434,Kaligandaki
+4634,0,185642,सरोज कुमार थापा,Saroj kumar Thapa,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6166,निर्वाचित,Elected,1,,5,42,5435,Gulmidarbar
+4642,0,215405,युवराज खत्री क्षेत्री,Yubraj khatri chhetri,पुरुष,42,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5700,निर्वाचित,Elected,1,,5,42,5436,Chandrakot
+4646,0,228276,राम प्रसाद पाण्डेय,Ram Prasad Pandey,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6586,निर्वाचित,Elected,1,,5,42,5437,Chatrakot
+4648,0,251266,भुपाल पोखरेल,Bhupal Pokharel,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6089,निर्वाचित,Elected,1,,5,42,5438,Dhurkot
+4653,0,228721,महेन्द्र बहादुर कुवंर,Mahendra Bahadur Kunwar,पुरुष,70,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4707,निर्वाचित,Elected,1,,5,42,5439,Madane
+4659,0,231960,देवीराम अर्याल,Deviram Aryal,पुरुष,42,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6176,निर्वाचित,Elected,1,,5,42,5440,Malika
+4663,0,181362,जीब लाल खरेल जीवन,Jiba Lal Kharel Jeevan,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7399,निर्वाचित,Elected,3,,5,42,5441,Musikot
+4668,0,214164,यदु ज्ञवाली,Yadu Gnawali,पुरुष,31,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5817,निर्वाचित,Elected,1,,5,42,5442,Rurukshretra
+4671,0,232261,खिलध्‍वज पन्थी,Khildhwoj Panthi,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8614,निर्वाचित,Elected,3,,5,42,5443,Resunga
+4678,0,182765,टीका राम पाण्डे,Tika Ram Pandey,पुरुष,64,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6267,निर्वाचित,Elected,1,,5,42,5444,Satyawati
+4685,0,223134,सन्तोष लाल क्षेष्ठ,Santosh Lal Shrestha,पुरुष,63,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11273,निर्वाचित,Elected,3,,5,43,5445,Tansen
+4692,0,181194,प्रेम श्रेष्ठ,Prem Shrestha,पुरुष,41,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5090,निर्वाचित,Elected,1,,5,43,5446,Tinau
+4698,0,195956,मुक्त बहादुर सारु,Mukta Bahadur Saru,पुरुष,59,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6652,निर्वाचित,Elected,1,,5,43,5447,Nisdi
+4702,0,230359,नुन बहादुर थापा,Nun Bahadur Thapa,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6039,निर्वाचित,Elected,1,,5,43,5448,Purbakhola
+4706,0,186704,सरस्वती दर्लामी (चिदी),Saraswati Darlami (Chidi),महिला,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6466,निर्वाचित,Elected,1,,5,43,5449,Bagnaskali
+4713,0,309808,यम बहादुर चिदी,Yam Bahadur Chidi,पुरुष,46,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6109,निर्वाचित,Elected,1,,5,43,5450,Mathagadhi
+4718,0,187673,विष्‍णु प्रसाद भण्‍डारी,Bishnu Prasad Bhandari,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5586,निर्वाचित,Elected,1,,5,43,5451,Rambha
+4721,0,272699,रमण वहादुर थापा,Raman Bahadur Thapa,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10456,निर्वाचित,Elected,3,,5,43,5452,Rampur
+4727,0,246898,नारायण बहादुर कार्की,Narayan Karki,पुरुष,51,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5704,निर्वाचित,Elected,1,,5,43,5453,Ribdikot
+4729,0,244924,रुक्मागत भट्टराई,Rukmagat Bhattarai,पुरुष,62,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6643,निर्वाचित,Elected,1,,5,43,5454,Rainadevi Chhahara
+4733,0,210915,चन्द्र मान श्रेष्‍ठ,Chandra Man Shrestha,पुरुष,71,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7407,निर्वाचित,Elected,1,,5,44,5455,Chhatradev
+4737,0,237730,टेक राज न्यौपाने,Tek Raj Neupane,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7749,निर्वाचित,Elected,1,,5,44,5456,Panini
+4740,0,219779,झविलाल थापा,Jhabilal Thapa,पुरुष,51,10,10,गिलास,,राष्ट्रिय जनमोर्चा,Rastriya Janmorcha,8324,निर्वाचित,Elected,3,,5,44,5457,Bhumekasthan
+4743,0,193870,दल बहादुर भट्टराई,Dal Bahadur Bhattarai,पुरुष,62,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),8283,निर्वाचित,Elected,1,,5,44,5458,Malarani
+4747,0,212217,कृष्‍ण प्रसाद श्रेष्‍ठ,Krishna Shrestha,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),11135,निर्वाचित,Elected,3,,5,44,5459,Sandhikharka
+4752,0,208649,छवि लाल पौडेल,Chhabi Lal Poudel,पुरुष,61,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10078,निर्वाचित,Elected,3,,5,44,5460,Sitganga
+4762,0,195201,मन्जित कूमार यादव,Manjit Kumar Yadav,पुरुष,35,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4832,निर्वाचित,Elected,1,,5,46,5476,Omsatiya
+4773,0,208753,नवराज ढकाल,Nabaraj Dhakal,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9085,निर्वाचित,Elected,1,,5,46,5477,Kanchan
+4785,0,185467,बाल कृण्ण त्रिपाठी,Bal Krishna Tripathi,पुरुष,71,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4638,निर्वाचित,Elected,1,,5,46,5478,Kotahimai
+4797,0,280136,सुरेन्द्र पौड्याल,Surendra Poudyal,पुरुष,44,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5631,निर्वाचित,Elected,1,,5,46,5479,Gaidahawa
+4810,0,202879,राम कृष्ण खाँण,Ram Krishna Khand,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,24396,निर्वाचित,Elected,3,,5,46,5480,Tillotama
+4830,0,198113,ध्रुब प्रसाद खरेल,Dhrub Prasad Kharel,पुरुष,57,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),12943,निर्वाचित,Elected,3,,5,46,5481,Devdaha
+4847,0,188295,खेल राज पाण्‍डेय,Khel Raj Pandey,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,30249,निर्वाचित,Elected,3,,5,46,5482,Butwal
+4860,0,218458,गया प्रसाद बरई,Gaya Prasad Barai,पुरुष,47,121,2324,कोदालो बोकेको किसान,,"जनता प्रगतिशिल पार्टी, नेपाल",,4385,निर्वाचित,Elected,1,,5,46,5483,Marchawari
+4875,0,196672,ध्रुव नारायण चौधरी,Dhurba Narayan Chaudhary,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5386,निर्वाचित,Elected,1,,5,46,5484,Mayadevi
+4887,0,171099,विद्या प्रसाद यादव,Vidda Prasad Yadav,पुरुष,35,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,7496,निर्वाचित,Elected,1,,5,46,5485,Rohini
+4894,0,183552,सजरुद्दीन मुसलमान,Sajruddin Musalman,पुरुष,68,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8211,निर्वाचित,Elected,3,,5,46,5486,Lumbini Sanskritik
+4911,0,232434,बिष्णु प्रसाद बस्याल,Bishnu Prasad Bashyal,पुरुष,62,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7983,निर्वाचित,Elected,1,,5,46,5487,Sudhdhodhan
+4920,0,219777,विनोद कुमार श्रीवास्तव,Binod Kumar Srivastav,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4134,निर्वाचित,Elected,1,,5,46,5488,Sammarimai
+4935,0,241931,इश्तियाक अहमद खान,Istiyak Ahamad Khan,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9134,निर्वाचित,Elected,3,,5,46,5489,Siddharthanagar
+4950,0,197827,थानेश्‍वर घिमिरे,Thaneshwor Ghimire,पुरुष,58,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10045,निर्वाचित,Elected,1,,5,46,5490,Siyari
+4958,0,206244,फणेन्द्र प्रसाद शर्मा,Phanendra Prasad Sharma,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15686,निर्वाचित,Elected,3,,5,46,5491,Sainamaina
+4971,0,199041,सुदीप पौडेल,Sudip Paudel,पुरुष,44,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,11906,निर्वाचित,Elected,3,,5,47,5492,Kapilbastu
+4980,0,242296,रजत प्रताप शाह,Rajat Pratap Shah,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5606,निर्वाचित,Elected,3,,5,47,5493,Krishnanagar
+5012,0,189535,चक्र पाणी अर्याल,Chakra Pani Aryal,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),18999,निर्वाचित,Elected,3,,5,47,5494,Banganga
+5021,0,184406,केशव कुमार श्रेष्‍ठ,Keshav Kumar Shrestha,पुरुष,64,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14384,निर्वाचित,Elected,3,,5,47,5495,Buddhabhumi
+5035,0,188679,अब्दुल कलाम मुसलमान,Abdul Kalam Musalman,पुरुष,67,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10200,निर्वाचित,Elected,3,,5,47,5496,Maharajgunj
+5046,0,275488,बलिउद्दीन मुसलमान,Baliuddin Musalman,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5278,निर्वाचित,Elected,1,,5,47,5497,Mayadevi
+5072,0,230678,शिव दयाल तिवारी,Shiv Dayal Tiwari,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4462,निर्वाचित,Elected,1,,5,47,5498,Yashodhara
+5083,0,184088,गोपाल बहादुर थापा,Gopal Bahadur Thapa,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5838,निर्वाचित,Elected,1,,5,47,5499,Bijayanagar
+5095,0,211201,अजय थापा,Ajaya Thapa,पुरुष,33,4,2279,हलो,,राष्ट्रिय प्रजातन्त्र पार्टी,Rastriya Prajatantra Party,7602,निर्वाचित,Elected,3,,5,47,5500,Shivaraj
+5106,0,173186,कमलेश शरण चौधरी,Kamlesh Sharan Chaudhary,पुरुष,41,118,92,साइकल,,"लोकतान्त्रिक समाजवादी पार्टी, नेपाल  ",,4481,निर्वाचित,Elected,1,,5,47,5501,Suddhodhan
+5122,0,241394,पुनीराज घर्ति,Puniraj Gharti,पुरुष,45,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3913,निर्वाचित,Elected,1,,5,52,5533,Putha Uttarganga
+5127,0,237651,होम प्रकाश श्रेष्ठ,Hom Prakash Shrestha,पुरुष,45,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3975,निर्वाचित,Elected,1,,5,52,5535,Bhume
+5130,0,266079,कृष्ण रेग्मी,Krishna Regmi,पुरुष,48,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3779,निर्वाचित,Elected,1,,5,52,5538,Sisne
+5134,0,228608,कर्ण बहादुर बाँठामगर,Karna Bahadur Bhanthamagar,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5085,निर्वाचित,Elected,1,,5,53,5539,Tribeni
+5139,0,205754,ऋषि केशव बुढामगर,Rishi Keshav Budhamagar,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2122,निर्वाचित,Elected,1,,5,53,5540,Thawang
+5142,0,267212,सुक बहादुर बुढा मगर,Suk Bahadur Budha Magar,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3311,निर्वाचित,Elected,1,,5,53,5541,Pariwartan
+5146,0,231439,अमर सिंह घर्तीमगर,Amar Sinh Ghartimagar,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3830,निर्वाचित,Elected,1,,5,53,5542,Madi
+5148,0,211501,जनक पुन,Janak Pun,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4391,निर्वाचित,Elected,1,,5,53,5543,Runtigadi
+5152,0,185609,सुरेन्द्र थापा (घर्ती),Surendra Thapa (Gharti),पुरुष,56,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7603,निर्वाचित,Elected,3,,5,53,5544,Rolpa
+5157,0,208543,भरत कुमार थापा,Bharat Kumar Thapa,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4964,निर्वाचित,Elected,1,,5,53,5545,Lungri
+5161,0,187906,हरी बहादुर पुन,Hari Bahadur  Pun,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2557,निर्वाचित,Elected,1,,5,53,5546,Gangadev
+5165,0,183053,धन बहादुर पुनमगर,Dhan Bahadur Punmagar,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3439,निर्वाचित,Elected,1,,5,53,5547,Sunchhahari
+5170,0,306042,मणिराम बुढाथोकी,Maniram Budhathoki,पुरुष,57,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6062,निर्वाचित,Elected,1,,5,53,5548,Sunil Smriti
+5175,0,209717,नवील विक्रम शाह,Nabil Vikram Shah,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4669,निर्वाचित,Elected,1,,5,54,5549,Ayirabati
+5178,0,245197,विष्णु कुमार गिरी,Bishnu Kumar Giri,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3649,निर्वाचित,Elected,1,,5,54,5550,Gaumukhi
+5184,0,283724,पित बहादुर महतरा क्षेत्री,Pit Bahadur Mahatara Chatri,पुरुष,64,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5929,निर्वाचित,Elected,1,,5,54,5551,Jhimruk
+5189,0,274620,दिल वहादुर थापा,Dil Bahadur Thapa,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6537,निर्वाचित,Elected,1,,5,54,5552,Naubahini
+5193,0,205274,विष्णु बहादुर योगी,Bishnu Bahadur Yogi,पुरुष,58,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),9323,निर्वाचित,Elected,3,,5,54,5553,Pyuthan
+5197,0,249856,कृष्ण बहादुर खड्का,Krishna Bahadur Khadka,पुरुष,65,10,10,गिलास,,राष्ट्रिय जनमोर्चा,Rastriya Janmorcha,3576,निर्वाचित,Elected,1,,5,54,5554,Mallarani
+5199,0,172723,नम राज अधिकारी,Nam Raj Adhikari,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3676,निर्वाचित,Elected,1,,5,54,5555,Mandavi
+5206,0,182657,झग बहादुर विश्‍वकर्मा,Jhaj Bahadur Bishowkarma,पुरुष,47,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4280,निर्वाचित,Elected,1,,5,54,5556,Sarumarani
+5210,0,224373,टेक प्रसाद भण्डारी,Tek Prasad Bhandari,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7726,निर्वाचित,Elected,3,,5,54,5557,Sworgadwary
+5216,0,270179,यम नारायण शर्मा पोख्रेल,Yam Narayan Sharma Pokhrel,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6909,निर्वाचित,Elected,1,,5,56,5568,Gadhawa
+5225,0,217608,नरुलाल चौधरी,Narulal Chaudhary,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),31728,निर्वाचित,Elected,3,,5,56,5569,Ghorahi
+5239,0,194766,टिकाराम खड्का,Tikaram Khadka,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),31408,निर्वाचित,Elected,3,,5,56,5570,Tulsipur
+5250,0,269033,शम्भु गिरी,Shambhu Giri,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5467,निर्वाचित,Elected,1,,5,56,5571,Dangisharan
+5257,0,244299,तुल्सीराम पुन मगर,Tulsiram Pun Magar,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5749,निर्वाचित,Elected,1,,5,56,5572,Banglachuli
+5261,0,219978,कुल वहादुर खत्री क्षेत्री,Kul Bahadur Khatri,पुरुष,61,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6615,निर्वाचित,Elected,1,,5,56,5573,Babai
+5268,0,227097,शरद कुमार बुढाथोकी,Sharad Kumar Budhathoki,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3980,निर्वाचित,Elected,1,,5,56,5574,Rajpur
+5274,0,199127,प्रकाश बिष्ट,Parkesh Bista,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6898,निर्वाचित,Elected,1,,5,56,5575,Rapti
+5281,0,191572,जोगराज चौधरी,Jogajram Chaudhary,पुरुष,74,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9317,निर्वाचित,Elected,3,,5,56,5576,Lamahi
+5289,0,203816,प्रमोद बस्नेत,Pramod Basnet,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5716,निर्वाचित,Elected,1,,5,56,5577,Shantinagar
+5296,0,212789,पुर्ण प्रसाद आचार्य,Purna Prasad Acharya,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,14134,निर्वाचित,Elected,3,,5,65,5641,Kohalpur
+5310,0,212595,डम्बर बहादुर बि.क.,Dambr Bahadur B.K.,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),10790,निर्वाचित,Elected,1,,5,65,5642,Khajura
+5318,0,226678,छब्बन खाँ,Chabban Khan,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6653,निर्वाचित,Elected,1,,5,65,5643,Janki
+5324,0,210982,नरेन्द्र कुमार चौधरी,Narendra Kumar Chaudhary,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6272,निर्वाचित,Elected,1,,5,65,5644,Duduwa
+5331,0,179347,इश्तियाक अहमद शाह,ISHTIYAK AHAMAD SHAH,पुरुष,52,117,2278,ढल्केको छाता,,"जनता समाजवादी पार्टी, नेपाल ",,5037,निर्वाचित,Elected,1,,5,65,5645,Narainapur
+5335,0,197766,प्रशान्त विष्ट,Prashant Bista,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,23460,निर्वाचित,Elected,3,,5,65,5646,Nepalgunj
+5352,0,200633,प्रकाश बहादुर शाही,Prakash Bahadur Shahi,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12180,निर्वाचित,Elected,1,,5,65,5647,Baijanath
+5360,0,231897,तप्त बहादुर पौडेल,Tapta Bhadur Paudel,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10112,निर्वाचित,Elected,1,,5,65,5648,Rapti Sonari
+5365,0,271420,मुक्ति नाथ यादव,Mukti Nath Yadav,पुरुष,44,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7989,निर्वाचित,Elected,3,,5,66,5649,Gulariya
+5380,0,225281,जमान सिं के.सी.,Jaman Singh K.C.,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7698,निर्वाचित,Elected,1,,5,66,5650,Geruwa
+5386,0,210342,तिलक राम लम्साल,Tilak Ram Lamsal,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9042,निर्वाचित,Elected,3,,5,66,5651,Thakurbaba
+5393,0,216917,हिमालय त्रिपाठी,Himalaya Tripathi,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),9367,निर्वाचित,Elected,1,,5,66,5652,Badhaiyatal
+5399,0,199675,छबिलाल थारु,Chhabilal Tharu,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,13006,निर्वाचित,Elected,3,,5,66,5653,Barbardiya
+5409,0,191833,खडक वहादुर् खड्का,Khadak Bahadur Khadka,पुरुष,47,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10947,निर्वाचित,Elected,3,,5,66,5654,Bansagadhi
+5418,0,236309,तेज बहादुर भाट,Tej Bahadur Bhat,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8775,निर्वाचित,Elected,3,,5,66,5655,Madhuwan
+5424,0,227256,दिपेश थारु,Dipesh Tharu,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),9807,निर्वाचित,Elected,3,,5,66,5656,Rajapur
+5431,0,232034,टेक नारायण उपाध्याय,Tek Narayan Upadhyaya,पुरुष,69,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6270,निर्वाचित,Elected,1,,5,77,5463,Susta
+5445,0,200622,वैजु प्रसाद गुप्ता,Baiju Prasad Gupta,पुरुष,38,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4381,निर्वाचित,Elected,1,,5,77,5465,Palhi Nandan
+5457,0,234461,उमेश चन्द्र यादव,Umesh Chandra Yadav,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6008,निर्वाचित,Elected,1,,5,77,5466,Pratappur
+5464,0,232873,सम्‍भु लाल श्रेष्‍ठ,Shmbhu Lal Shrestha,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,18489,निर्वाचित,Elected,3,,5,77,5467,Bardaghat
+5473,0,168505,धनपत यादव,Dhanapat Yadav,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7824,निर्वाचित,Elected,3,,5,77,5471,Ramgram
+5483,0,190884,सुखाडी प्रसाद चौधरी थारु,Sukhadi Prasad Chaudhary Tharu,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7059,निर्वाचित,Elected,1,,5,77,5473,Sarawal
+5494,0,184915,विमला अर्याल,Bimala Aryal,महिला,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),14838,निर्वाचित,Elected,3,,5,77,5474,Sunwal
+5509,0,242632,दुर्गा बहादुर पुन,Durga Bahadur Pun,पुरुष,49,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),3160,निर्वाचित,Elected,1,,6,55,5558,Kapurkot
+5513,0,260246,दान वहादुर खत्री के.सी,Dan Bahadur Khartri,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3741,निर्वाचित,Elected,1,,6,55,5559,Kalimati
+5518,0,224065,मान वहादुर वुढाथोकी,Man Bahadur Budhathoki,पुरुष,66,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4058,निर्वाचित,Elected,1,,6,55,5560,Kumakh
+5522,0,260679,ओज बहादुर वुढाथोकी,Oj Bahadur Budhathoki,पुरुष,46,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3892,निर्वाचित,Elected,1,,6,55,5561,Chhatreshwori
+5529,0,229556,भरत गिरी ,Bharat Giri,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2173,निर्वाचित,Elected,1,,6,55,5562,Siddha Kumakh
+5532,0,238919,खिम बहादुर रावत,Khim Bahadur Rawot,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3369,निर्वाचित,Elected,1,,6,55,5563,Tribeni
+5536,0,172195,निम बहादुर के.सी.,Nim Bahadur K.C.,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),4464,निर्वाचित,Elected,1,,6,55,5564,Darma
+5542,0,198862,कर्ण बहादुर बुढाथोकी,Karna Bahadur Budhathoki,पुरुष,54,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7370,निर्वाचित,Elected,3,,6,55,5565,Bangad Kupinde
+5546,0,221209,जनक राज गौतम,Janak raj Gautam,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6027,निर्वाचित,Elected,3,,6,55,5566,Bagchaur
+5551,0,269870,प्रकाश भण्डारी,prakash bhandari,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6217,निर्वाचित,Elected,3,,6,55,5567,Sharada
+5555,0,168779,अंगद कुमार राना,Angad Kumar Rana,पुरुष,35,116,0,,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),0,निर्विरोध,Unopposed,1,,6,57,5578,Kaike
+5556,0,315908,सेनाङ गुरुङ,Senang Gurung,पुरुष,46,116,0,,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),0,निर्विरोध,Unopposed,1,,6,57,5579,Chharka Tangsong
+5557,0,183876,नारा सिं रोकाया,Nara Sing Rokaya,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),770,निर्वाचित,Elected,1,,6,57,5580,Jagadulla
+5559,0,176287,श्‍वबर्ण कुमार बुढा,Swarna Kumar Budha,पुरुष,35,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1286,निर्वाचित,Elected,3,,6,57,5581,Thuli Bheri
+5565,0,193717,कार्मा छोइवेल गुरुङ,Karma Chhoibel Gurung,पुरुष,60,999,2317,खरायो,,स्वतन्त्र,Independent ,535,निर्वाचित,Elected,1,,6,57,5582,Dolpo Buddha
+5567,0,199507,जन चन्द्र रोकाया,Jan Chandra Rokaya,पुरुष,58,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2104,निर्वाचित,Elected,3,,6,57,5583,Tripurasundari
+5570,0,195166,दत्त बहादुर शाही,Datta Bahadur Shahi,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1404,निर्वाचित,Elected,1,,6,57,5584,Mudkechula
+5572,0,181045,धावा सम्डुक गुरुङ,Dhawa Samduk Gurung,पुरुष,41,2,0,,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),0,निर्विरोध,Unopposed,1,,6,57,5585,Shey Phoksundo
+5573,0,314426,अज बहादुर शाही,Aja Bahadur Shahi,पुरुष,56,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3520,निर्वाचित,Elected,1,,6,58,5586,Khatyad
+5580,0,224549,विष्णु कुमार भाम,Bishnu Kumar Bham,पुरुष,31,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4599,निर्वाचित,Elected,3,,6,58,5587,Chhayanath Rara
+5585,0,211185,छिरिङ क्याप्ने लामा,Chhiring Kypne Lama,पुरुष,66,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1571,निर्वाचित,Elected,1,,6,58,5588,Mugum Karmarong
+5587,0,261769,धर्म बहादुर शाही,Dharma Bahadur Shahi,पुरुष,50,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),4047,निर्वाचित,Elected,1,,6,58,5589,Soru
+5589,0,217834,दामोदर प्रसाद आचार्य,Damudar Prasad Acharya,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2806,निर्वाचित,Elected,1,,6,59,5590,Kanakasundari
+5597,0,195054,दान बहादुर बुढा,Dan Bhadur Buda,पुरुष,33,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1775,निर्वाचित,Elected,1,,6,59,5591,Guthichaur
+5603,0,227703,राजु सिंह कठायत,Raju Singh Kathayat,पुरुष,53,999,2339,खानेपानीको धारा,,स्वतन्त्र,Independent ,2403,निर्वाचित,Elected,3,,6,59,5592,Chandannath
+5610,0,210420,नन्द प्रसाद चौलागाई,Nanda Prashad Chaulagain,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2491,निर्वाचित,Elected,1,,6,59,5593,Tatopani
+5617,0,264047,मोति लाल रोकाया,Moti Lal Rokaya,पुरुष,65,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1936,निर्वाचित,Elected,1,,6,59,5594,Tila
+5623,0,304036,पूर्ण सिंगे बोहोरा,Purna Sing Bohora,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2768,निर्वाचित,Elected,1,,6,59,5595,Patrasi
+5628,0,191220,पूर्ण प्रसाद धिताल,Purna Prasad Dhital,पुरुष,53,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1949,निर्वाचित,Elected,1,,6,59,5596,Sinja
+5635,0,198766,लक्ष्मण बहादुर शाही,Laxman Bahadur Shahi,पुरुष,36,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1872,निर्वाचित,Elected,1,,6,59,5597,Hima
+5642,0,274976,गोबिन्द्र प्रसाद आचार्य,Gobindra Prasad Acharya,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2409,निर्वाचित,Elected,1,,6,60,5598,Subha Kalika
+5650,0,306301,कमल बहादुर शाही,Kamal Bahadur Shahi,पुरुष,56,999,2318,हाँस,,स्वतन्त्र,Independent ,2919,निर्वाचित,Elected,3,,6,60,5599,Khandachakra
+5655,0,313418,शंकर प्रसाद उपाध्याय,Shankar Prasad Upadhyay,पुरुष,38,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2916,निर्वाचित,Elected,3,,6,60,5600,Tilagufa
+5660,0,215219,नगेन्द्र वहादुर विष्ट,Nagendra Bahadur Bista,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2636,निर्वाचित,Elected,1,,6,60,5601,Naraharinath
+5667,0,311525,देब राज शाहि,Daba Raj Shahi,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2362,निर्वाचित,Elected,1,,6,60,5602,Pachaljharana
+5672,0,248651,विष्णु बहादुर रोकाया,Bishnu Bhadur Rokaya,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2292,निर्वाचित,Elected,1,,6,60,5603,Palata
+5678,0,202636,खेम बहादुर सिंह,Khem Bahadur Singh,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2274,निर्वाचित,Elected,1,,6,60,5604,Mahawai
+5684,0,213691,धर्म राज शाही,Dharma Raj Shahi,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3047,निर्वाचित,Elected,3,,6,60,5605,Raskot
+5691,0,183498,मोहन बहादुर के.सी.,Mohan Bahadur K.C.,पुरुष,46,999,2316,पुतली,,स्वतन्त्र,Independent ,1819,निर्वाचित,Elected,1,,6,60,5606,Sanni Tribeni
+5699,0,197047,मोहन बिक्रम सिंह,Mohan Bikram Singh,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1968,निर्वाचित,Elected,1,,6,61,5607,Adanchuli
+5702,0,217318,कर्ण बहादुर रावल,Karna Bahadur Rawat,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,1810,निर्वाचित,Elected,1,,6,61,5608,Kharpunath
+5704,0,192440,प्यारी लाल शाही,Pyari Lal Shahi,पुरुष,43,999,2318,हाँस,,स्वतन्त्र,Independent ,1695,निर्वाचित,Elected,1,,6,61,5609,Chankheli
+5707,0,255165,लालकेश जैसी,Lalkesh Jaisi,पुरुष,46,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1810,निर्वाचित,Elected,1,,6,61,5610,Tanjakot
+5711,0,306018,प्रेम बहादुर लामा,Prem Bahadur Lama,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),1466,निर्वाचित,Elected,1,,6,61,5611,Namkha
+5713,0,323601,ठान बहादुर रोकाया,Than Bahadur Rokaya,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3543,निर्वाचित,Elected,1,,6,61,5612,Sarkegad
+5716,0,242620,विजय भण्डारी,Bijaya bhandari,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2882,निर्वाचित,Elected,1,,6,61,5613,Simkot
+5719,0,212635,हरि चन्द्र बस्नेत,Hari Chandra Basnet,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3423,निर्वाचित,Elected,1,,6,62,5614,Kuse
+5723,0,214077,रत्‍न बहादुर खड्का,Ratna Bahadur Khadka,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,9173,निर्वाचित,Elected,3,,6,62,5615,Chhedagad
+5726,0,228290,बेद बहादुर शाही,Bed Bahadur Shahi,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3444,निर्वाचित,Elected,1,,6,62,5616,Junichande
+5730,0,205461,डम्मर बहादुर रावत,Dammar Bahadur Rawat,पुरुष,52,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5599,निर्वाचित,Elected,3,,6,62,5617,Nalagad
+5735,0,191814,बीर बहादुर गिरी,Bir Bahadur Giri,पुरुष,47,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3954,निर्वाचित,Elected,1,,6,62,5618,Barekot
+5739,0,205337,चन्द्र प्रकाश घर्ती,Chandra Prakash Gharti,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5210,निर्वाचित,Elected,3,,6,62,5619,Bheri
+5745,0,277793,शेर बहादुर शाही,Sher Bahadur Shahi,पुरुष,55,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3303,निर्वाचित,Elected,1,,6,62,5620,Shiwalaya
+5748,0,215071,तर्क बहादुर बडुवाल,Tarka Bahadur Baduwal,पुरुष,60,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5385,निर्वाचित,Elected,3,,6,63,5621,Aathabis
+5753,0,281591,टोप बहादुर वि सी,Top Bahadur B C,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4681,निर्वाचित,Elected,1,,6,63,5622,Gurans
+5760,0,252106,गणेश कुमार शाही,Ganesh Kumar Shahi,पुरुष,37,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4070,निर्वाचित,Elected,3,,6,63,5623,Chamunda Bindrasaini
+5766,0,240890,रक्ष बहादुर शाह,Raksha Bahadur Shah,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2571,निर्वाचित,Elected,1,,6,63,5624,Thantikandh
+5772,0,199603,सुन्दर कुमार के.सी.,Sundar Kumar K C,पुरुष,61,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3406,निर्वाचित,Elected,1,,6,63,5625,Dungeshwor
+5776,0,191767,भरत प्रशाद रिजाल,Bharat Parshad Rijal,पुरुष,43,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7725,निर्वाचित,Elected,3,,6,63,5626,Dullu
+5782,0,198688,लोमन शर्मा,Loman Sharma,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5436,निर्वाचित,Elected,3,,6,63,5627,Narayan
+5787,0,254443,छविराम सुवेदी,Chhabiram Subedi,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3200,निर्वाचित,Elected,1,,6,63,5628,Naumule
+5792,0,194406,गणेश वहादुर थापा,Ganesh Bahadur Thapa,पुरुष,55,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2846,निर्वाचित,Elected,1,,6,63,5629,Bhagawatimai
+5798,0,236417,रिता कुमारी शाही,Rita Kumari Shahi,महिला,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3976,निर्वाचित,Elected,1,,6,63,5630,Bhairabi
+5804,0,243896,लछुमन गुरुङ,Lachuman Gurung,पुरुष,75,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2979,निर्वाचित,Elected,1,,6,63,5631,Mahabu
+5811,0,229143,हस्त पुन,Hasta Pun,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,11978,निर्वाचित,Elected,3,,6,64,5632,Gurbhakot
+5818,0,212467,बोध विक्रम जि.सी.,Bodh Bikram G.C.,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3591,निर्वाचित,Elected,1,,6,64,5633,Chingad
+5822,0,246987,खड्क वि.क.,Khadka B.K.,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5476,निर्वाचित,Elected,1,,6,64,5634,Chaukune
+5828,0,276824,लाल वीर भण्डारी,Lal Bir Bhandari,पुरुष,56,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5909,निर्वाचित,Elected,3,,6,64,5635,Panchpuri
+5836,0,272421,भिम बहादुर भण्डारी,Bhim Bahadur Bhandari,पुरुष,33,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4273,निर्वाचित,Elected,1,,6,64,5636,Barahtal
+5842,0,202393,मोहन माया भण्डारी,Mohan Maya Bhandari,महिला,42,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),16038,निर्वाचित,Elected,3,,6,64,5637,Birendranagar
+5855,0,204481,यज्ञ प्रसाद ढकाल,Yagya Prasad Dhakal,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),10022,निर्वाचित,Elected,3,,6,64,5638,Bheriganga
+5862,0,295606,उमेश कुमार पौडेल,Umesh Kumar Poudel,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6639,निर्वाचित,Elected,3,,6,64,5639,Lekbeshi
+5869,0,202642,ऐन बहादुर चन्द,Ain Bahadru Chand,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6170,निर्वाचित,Elected,1,,6,64,5640,Simta
+5872,0,189137,रवि के.सी.,Ravi k.c.,पुरुष,32,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),7399,निर्वाचित,Elected,3,,6,76,5530,Aathbiskot
+5877,0,182598,पुष्‍प वादी,Puspa Badi,पुरुष,47,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6882,निर्वाचित,Elected,3,,6,76,5531,Chaurjahari
+5881,0,192023,गणेश कुमार के.सी.,Ganesh Kumar Kc,पुरुष,48,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5129,निर्वाचित,Elected,1,,6,76,5532,Tribeni
+5886,0,190857,जनक कुमार वाँठा मगर,Janak Kumar Bantha magar,पुरुष,47,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4455,निर्वाचित,Elected,1,,6,76,5534,Banfikot
+5891,0,229945,महेन्द्र के.सी.,Mahendra K.C.,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6914,निर्वाचित,Elected,3,,6,76,5536,Musikot
+5894,0,190951,विर्खबहादुर विष्ट,Birkhabahadur Bista,पुरुष,43,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),6019,निर्वाचित,Elected,1,,6,76,5537,Sani Bheri
+5898,0,222409,हरी वहादुर रोकाया,Hari Bahadur Rokaya,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3434,निर्वाचित,Elected,1,,7,67,5657,Gaumul
+5902,0,194650,दिल बहादुर रावत,Dil Bahadur Rawat,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3746,निर्वाचित,Elected,1,,7,67,5658,Khaptad Chhededaha
+5906,0,187993,कर्ण बहादुर थापा,Karna Bhadur Thapa,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4761,निर्वाचित,Elected,3,,7,67,5659,Tribeni
+5909,0,183963,काली बहादुर शाही,Kali Bahadur Shahi,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2319,निर्वाचित,Elected,1,,7,67,5660,Jagannath
+5911,0,212523,अमर वहादुर खड्का,Amar Bahadur Khadka,पुरुष,41,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4019,निर्वाचित,Elected,3,,7,67,5661,Badimalika
+5916,0,313174,जनक कुमार बोहरा,Janak Kumar Bohara,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5115,निर्वाचित,Elected,3,,7,67,5663,Budhinanda
+5919,0,181278,भरत बहादुर रोकाया,Bharat Bahadur Rokaya,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2011,निर्वाचित,Elected,1,,7,67,5664,Swami Kartik Khaapar
+5923,0,191296,गोबिन्द बहादुर मल्ल,Govinda Bahadur Malla,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2384,निर्वाचित,Elected,1,,7,67,5665,Himali
+5928,0,249073,यज्ञ प्रसाद ढकाल,Yagya Prasad Dhakal,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4288,निर्वाचित,Elected,3,,7,68,5666,Kamalbazar
+5933,0,203972,भिम बहादुर साउंद,Bhim Bahadur Saud,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3982,निर्वाचित,Elected,1,,7,68,5667,Chaurpati
+5936,0,243992,प्रकाश बहादुर साउँद,Prakash Bahadur Saud,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3181,निर्वाचित,Elected,1,,7,68,5668,Dhakari
+5939,0,295562,डम्बर बहादुर बि सी,Damber Bahadur B C,पुरुष,34,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3523,निर्वाचित,Elected,1,,7,68,5669,Turmakhad
+5946,0,222279,अम्विका कुमारी चलाउने,Ambika Kumari Chalaune,महिला,31,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3653,निर्वाचित,Elected,3,,7,68,5670,Panchadewal Binayak
+5952,0,203066,टेक बहादुर साउँद,Tek Bahadur Saud,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3112,निर्वाचित,Elected,1,,7,68,5671,Bannigadhi Jayagadh
+5956,0,210723,पदम बहादुर बोहरा,Padam Bahadur Bohara,पुरुष,63,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5737,निर्वाचित,Elected,3,,7,68,5672,Mangalsen
+5959,0,251226,ज्वाला सिंह साउद,Jwala Singh Saud,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),5144,निर्वाचित,Elected,1,,7,68,5673,Mellekh
+5961,0,274648,मान बहादुर साउद,Man Bahadur Saud,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3127,निर्वाचित,Elected,1,,7,68,5674,Ramaroshan
+5965,0,256970,राजेन्द्र बहादुर कुवँर,Rajendra Bahadur Kunwar,पुरुष,48,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7265,निर्वाचित,Elected,3,,7,68,5675,Sanphebagar
+5968,0,309249,मानविर बोहरा,Manbir Bohara,पुरुष,50,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),675,निर्वाचित,Elected,1,,7,69,5676,SaiPaal
+5972,0,266379,गणेश बहादुर बोहरा,Ganesh Bahadur Bohara,पुरुष,41,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),4321,निर्वाचित,Elected,1,,7,69,5677,Kedarseu
+5974,0,223078,उत्तम बहादुर रोकाया,Uttam Bahadur Rokaya,पुरुष,40,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3141,निर्वाचित,Elected,1,,7,69,5678,Khaptadchhanna
+5978,0,270435,बसन्‍त बहादुर चलाउने,Basanta Bahadur Chalaune,पुरुष,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3684,निर्वाचित,Elected,1,,7,69,5679,Chabispathivera
+5983,0,217865,चेतराज बजाल,Chetraj Bajal,पुरुष,60,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4970,निर्वाचित,Elected,3,,7,69,5680,JayaPrithivi
+5986,0,207334,कलक बहादुर रोकाया,Kalak Bahadur Rokaya,पुरुष,52,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2759,निर्वाचित,Elected,1,,7,69,5681,Talkot
+5991,0,198889,प्रकाश बहादुर रोकाया,Prakash Bahadur Rokaya,पुरुष,41,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2774,निर्वाचित,Elected,1,,7,69,5682,Thalara
+5995,0,237341,दिल बहादुर थापा,Dil Bahadur Thapa,पुरुष,37,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2823,निर्वाचित,Elected,1,,7,69,5683,Durgathali
+6000,0,210893,जय बहादुर धामी,Jaya Bhaadur Dhami,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,7615,निर्वाचित,Elected,3,,7,69,5684,Bungal
+6003,0,256514,ज्ञान बहादुर बोहरा,Gyan Bahadur Bohara,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3083,निर्वाचित,Elected,1,,7,69,5685,Masta
+6006,0,235039,अम्मर सिंह महर,Ammar Singh Mahar,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3159,निर्वाचित,Elected,1,,7,69,5686,Bithadchir
+6010,0,256637,खडक बहादुर बोहरा,Khadak Bahadur Bohara,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2300,निर्वाचित,Elected,1,,7,69,5687,Surma
+6012,0,282802,गणेश वहादुर खड्का,Ganesh Bahadur Khadka,पुरुष,36,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3773,निर्वाचित,Elected,1,,7,70,5688,Adharsha
+6016,0,308603,लोकेन्द्र बहादुर शाही,Lokendra Bahadur Shahi,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4263,निर्वाचित,Elected,1,,7,70,5689,K I Singh
+6019,0,168722,दुर्गा दत्त ओझा,Durga Datta Ojha,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3449,निर्वाचित,Elected,1,,7,70,5690,Jorayal
+6023,0,248918,बाजी  सिं  खड्का ,Baji  Singh  Khadka ,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5138,निर्वाचित,Elected,3,,7,70,5691,Dipayal Silgadi
+6030,0,263215,राम प्रसाद उपाध्याय,Ram Prashad Upadhaya,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5133,निर्वाचित,Elected,1,,7,70,5692,Purbichauki
+6034,0,213285,भैरव बहादुर  साउँद ,Bhairav  Bahadur  Saud ,पुरुष,52,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2343,निर्वाचित,Elected,1,,7,70,5693,Badikedar
+6037,0,204420,कमल बहादूर गडसीला,Kamal Bahadur Gadsila,पुरुष,33,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2058,निर्वाचित,Elected,1,,7,70,5694,Bogtan Foodsil
+6040,0,246276,दिर्घ बहादुर बलायर,Dirgha Bahadur Balayar,पुरुष,39,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6562,निर्वाचित,Elected,3,,7,70,5695,Shikhar
+6044,0,236424,धर्म राज जोशी,Dharma Raj Joshi,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3243,निर्वाचित,Elected,1,,7,70,5696,Sayal
+6048,0,214651,राज समझ चौधरी,Raj Samajh Chaudhary,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10492,निर्वाचित,Elected,1,,7,71,5697,Kailari
+6054,0,237072,विरेन्द्र भट्ट,Birendra Bhatta,पुरुष,51,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15501,निर्वाचित,Elected,3,,7,71,5698,Godawari
+6063,0,241036,देवी दत्त कडेल,Devi Datta Kadel,पुरुष,53,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),13795,निर्वाचित,Elected,3,,7,71,5699,Gauriganga
+6068,0,232492,खडक बहादुर रावत,Khadak Bahadur Rawat,पुरुष,42,116,1020,कलम,,नेपाल कम्युनिष्ट पार्टी (एकिकृत समाजबादी) ,Nepal Communist Party(Ekakrit Samajbadi),13128,निर्वाचित,Elected,3,,7,71,5700,Ghodaghodi
+6076,0,307790,चक्र बहादुर बोगटी,Chakra Bahadur bogati,पुरुष,54,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3305,निर्वाचित,Elected,1,,7,71,5701,Chure
+6079,0,191242,गणेश चौधरी,Ganesh Chaudhary,पुरुष,45,124,2306,पिंध भएको ढकिया,,नागरिक उन्मुक्ति पार्टी,,7151,निर्वाचित,Elected,1,,7,71,5702,Janaki
+6087,0,189139,चित्र बहादुर चौधरी,Chitra Bahadur Chaudhary,पुरुष,45,124,2306,पिंध भएको ढकिया,,नागरिक उन्मुक्ति पार्टी,,4903,निर्वाचित,Elected,1,,7,71,5703,Joshipur
+6093,0,181271,रामलाल डगौरा थारु,Ramlal Dangaura Tharu,पुरुष,41,124,2306,पिंध भएको ढकिया,,नागरिक उन्मुक्ति पार्टी,,9642,निर्वाचित,Elected,3,,7,71,5704,Tikapur
+6103,0,168752,गोपाल हमाल,Gopal Hamal,पुरुष,58,999,1040,आँप,,स्वतन्त्र,Independent ,26865,निर्वाचित,Elected,3,,7,71,5705,Dhangadhi
+6112,0,263850,कर्ण वहादुर कुँवर,Karna Bahadur Kuwnar,पुरुष,55,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5842,निर्वाचित,Elected,1,,7,71,5706,Bardagoriya
+6118,0,182408,केवल चौधरी,Kewal Chaudhary,पुरुष,53,124,2306,पिंध भएको ढकिया,,नागरिक उन्मुक्ति पार्टी,,8966,निर्वाचित,Elected,3,,7,71,5707,Bhajani
+6124,0,251143,देवी दत्त उपाध्याय,Devi Datta Upadhaya,पुरुष,34,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3134,निर्वाचित,Elected,1,,7,71,5708,Mohanyal
+6129,0,321769,सुशिला शाही,Sushila Shahi,महिला,36,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,12713,निर्वाचित,Elected,3,,7,71,5709,Lamkichuha
+6139,0,218296,भक्त सि‌ह ठेकरे (बोहरा),Bhakt Singh Thekare(Bohara),पुरुष,36,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2312,निर्वाचित,Elected,1,,7,72,5710,Apihimal
+6143,0,208507,नरेन्द्र वहादुर सिह वडाल,Narendra Bhadur Singh Badal,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2886,निर्वाचित,Elected,1,,7,72,5711,Dunhu
+6146,0,195152,दलजीत सिंह धामी,Daljeet Singh Dhami,पुरुष,48,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3783,निर्वाचित,Elected,1,,7,72,5712,Naugad
+6150,0,208190,मंगल सिंह धामी,Mangal Singh Dhami,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2949,निर्वाचित,Elected,1,,7,72,5713,Byas
+6153,0,186783,नर सिंह चैंसिर,Nar Singh Chaisir,पुरुष,40,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5003,निर्वाचित,Elected,3,,7,72,5714,Mahakali
+6158,0,191952,जमन सिंह धामी,Jaman Singh Dhami,पुरुष,40,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3616,निर्वाचित,Elected,1,,7,72,5715,Marma
+6162,0,206070,हिरा सिंह धामी,Hira Singh Dhami,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4034,निर्वाचित,Elected,1,,7,72,5716,Malikaarjun
+6166,0,197218,राम दत्त जोशी,Ram Datt Joshi,पुरुष,59,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2976,निर्वाचित,Elected,1,,7,72,5717,Lekam
+6170,0,194791,विजय सिह धामी,Bijaya Singh Dhami,पुरुष,67,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),5509,निर्वाचित,Elected,3,,7,72,5718,Shailyashikhar
+6175,0,311425,सन्तोष प्रकाश जोशी,Santosh Prakash Joshi,पुरुष,35,999,2316,पुतली,,स्वतन्त्र,Independent ,3189,निर्वाचित,Elected,1,,7,73,5719,Dilasaini
+6180,0,187597,पुषकर राज जोशी,Psker Raj Joshi,पुरुष,43,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6585,निर्वाचित,Elected,3,,7,73,5720,Dasharathchanda
+6186,0,213296,चक्र बहादुर कार्की,Chakra Bahadur Karki,पुरुष,49,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4917,निर्वाचित,Elected,1,,7,73,5721,Dogadakedar
+6190,0,233421,गोरख बहादुर चन्द,Gorakha Bahadur Chand,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),3782,निर्वाचित,Elected,1,,7,73,5722,Pancheshwar
+6192,0,202980,गौरी सिंह रावल,Gauri Singh Rawal,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,6869,निर्वाचित,Elected,3,,7,73,5723,Patan
+6195,0,192431,दीपक बहादुर बम,Deepak Bahadur Bam,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5880,निर्वाचित,Elected,3,,7,73,5724,Purchaudi
+6200,0,172766,भीम बहादुर चन्द,Bhim Bahadur Chand,पुरुष,45,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),3010,निर्वाचित,Elected,3,,7,73,5725,Melauli
+6207,0,216093,कर्ण सिंह साउद,Karna Singh Saud,पुरुष,45,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3165,निर्वाचित,Elected,1,,7,73,5726,Shivanath
+6210,0,190148,हरी सिंह धामी,Hari Singh Dhami,पुरुष,54,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3449,निर्वाचित,Elected,1,,7,73,5727,Sigas
+6215,0,291123,अम्मर बहादुर कुवंर,Ammar Bahadur Kunwar,पुरुष,45,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),2350,निर्वाचित,Elected,1,,7,73,5728,Surnaya
+6219,0,267968,उमेश प्रसाद भट्ट,Umesh Prasad Bhatta,पुरुष,39,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2469,निर्वाचित,Elected,1,,7,74,5729,Ajaymeru
+6224,0,214607,डिल्ली राज जोशी,Dilli Raj Joshi,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3619,निर्वाचित,Elected,3,,7,74,5730,Amargadhi
+6231,0,256695,शेर सिंह पार्की,Sher Singh Parki,पुरुष,44,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),2389,निर्वाचित,Elected,1,,7,74,5731,Alital
+6237,0,257293,ईन्द्र बहादुर कार्की,Indra Bahadur Karki,पुरुष,42,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,3184,निर्वाचित,Elected,1,,7,74,5732,Ganayapdhura
+6242,0,172885,लक्ष्मी प्रसाद अवस्थी,Laxmi Prashad Awasthi,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2879,निर्वाचित,Elected,1,,7,74,5733,Nawadurga
+6249,0,224872,भरत बडायर जोशी,Bharat Badayar Joshi,पुरुष,29,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,5941,निर्वाचित,Elected,3,,7,74,5734,Parashuram
+6255,0,213036,हेम राज चटौत,Hem Raj Chataut,पुरुष,50,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,2311,निर्वाचित,Elected,1,,7,74,5735,Bhageshwar
+6262,0,218373,हेम राज ओझा,Hem Raj Ojha,पुरुष,46,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10334,निर्वाचित,Elected,3,,7,75,5736,Krishnapur
+6268,0,212874,तोय प्रसाद शर्मा,Toya Prasad Sharma,पुरुष,53,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,10006,निर्वाचित,Elected,3,,7,75,5737,Punarbas
+6274,0,217804,हरिश चन्द्र राना,Harish Chandra Rana,पुरुष,41,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,4103,निर्वाचित,Elected,1,,7,75,5738,Beldandi
+6280,0,232115,पोती लाल चौधरी,Poti Lal Chaudhary,पुरुष,41,3,3,गोलाकारभित्र हसिया हथौडा,,नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र),Communist Party of Nepal (Maoist-Centre),8787,निर्वाचित,Elected,3,,7,75,5739,Belauri
+6286,0,249099,पदम वोगटी,Padam Bogati,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,15882,निर्वाचित,Elected,3,,7,75,5740,Bhimdatta
+6300,0,282859,किशोर कुमार लिम्वु,Kishor Kumar Limbu,पुरुष,51,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),7104,निर्वाचित,Elected,3,,7,75,5741,Dodhara Chandani
+6307,0,235454,निर्मल राना,Nirmal Rana,पुरुष,56,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),4516,निर्वाचित,Elected,1,,7,75,5742,Laljhadi
+6313,0,305934,भोज राज बोहरा,Bhoj Prasad Bohara,पुरुष,57,1,1,रुख,,नेपाली काँग्रेस,Nepali Congress,8078,निर्वाचित,Elected,3,,7,75,5743,Bedkot
+6323,0,193741,रण बहादुर महरा,Ran Bahadur Mahara,पुरुष,53,2,2,सूर्य,,नेपाल कम्युनिष्ट पार्टी (एमाले),Nepal Communist Party (UML),6773,निर्वाचित,Elected,3,,7,75,5744,Shuklaphanta
